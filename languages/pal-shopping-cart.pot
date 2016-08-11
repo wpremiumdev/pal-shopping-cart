@@ -1,0 +1,6057 @@
+# Copyright (C) 2016 PayPal Shopping Cart
+# This file is distributed under the same license as the PayPal Shopping Cart package.
+msgid ""
+msgstr ""
+"Project-Id-Version: PayPal Shopping Cart 1.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/pal-shopping-"
+"cart\n"
+"POT-Creation-Date: 2016-03-22 04:38:59+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: admin/class-paypal-shopping-cart-admin.php:67
+msgctxt "post type general name"
+msgid "Orders"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:68
+msgctxt "post type singular name"
+msgid "Order"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:69
+msgctxt "admin menu"
+msgid "PayPal Shopping Carts"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:70
+msgctxt "add new on admin bar"
+msgid "Order"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:71
+msgid "New Order"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:72
+#: admin/class-paypal-shopping-cart-admin.php:73
+msgid "View Order"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:74
+msgid "Orders"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:75
+msgid "Search Orders"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:76
+msgid "Parent Orders"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:77
+msgid "No Orders found"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:78
+msgid "No Orders found in trash"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:83
+#: admin/class-paypal-shopping-cart-admin.php:125
+#: admin/class-paypal-shopping-cart-admin.php:165
+#: admin/class-paypal-shopping-cart-admin.php:628
+#: admin/partials/paypal-shopping-cart-general-setting.php:361
+msgid "Description"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:108
+msgctxt "post type general name"
+msgid "Coupons"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:109
+msgctxt "post type singular name"
+msgid "Coupon"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:110
+msgctxt "admin menu"
+msgid "Coupons"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:111
+msgctxt "add new on admin bar"
+msgid "Coupons"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:112
+msgctxt "Coupon"
+msgid "Add Coupon"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:113
+msgid "Add New Coupon"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:114
+msgid "New Coupon"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:115
+msgid "Edit Coupon"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:116
+msgid "View Coupon"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:117
+msgid "Search Coupons"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:118
+msgid "Parent Coupon"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:119
+msgid "No Coupons found"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:120
+msgid "No Coupons found in trash"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:142
+msgctxt "post type general name"
+msgid "Products"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:143
+msgctxt "post type singular name"
+msgid "Product"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:144
+msgctxt "admin menu"
+msgid "Products"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:145
+msgctxt "add new on admin bar"
+msgid "Product"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:146
+msgctxt "Product"
+msgid "Add Product"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:147
+msgid "Add New Product"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:148
+msgid "New Product"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:149
+msgid "Edit Product"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:150
+msgid "View Product"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:151
+msgid "Products"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:152
+msgid "Search Products"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:153
+#: admin/class-paypal-shopping-cart-admin.php:156
+msgid "Parent Product"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:154
+msgid "No Products found"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:155
+msgid "No Products found in trash"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:157
+msgid "Product Image"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:158
+msgid "Set product image"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:159
+msgid "Remove product image"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:160
+msgid "Use as product image"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:185
+msgctxt "taxonomy general name"
+msgid "Product Categories"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:186
+msgctxt "taxonomy singular name"
+msgid "Product Categories"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:187
+msgid "Search Product Categories"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:188
+msgid "All Product Categories"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:189
+msgid "Parent Product Category"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:190
+msgid "Parent Product Category:"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:191
+msgid "Edit Product Category"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:192
+msgid "Update Product Category"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:193
+msgid "Add New Product Category"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:194
+msgid "New Product Category Name"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:195
+msgid "Categories"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:210
+msgid "Settings"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:216
+msgid "Coupon Data"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:241
+msgid "Product Data"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:242
+msgid "Product Short Description"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:258
+msgid "View"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:259
+msgid "Order Items"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:288
+msgid "<span class=\"psc_status_head\"></span>"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:289
+msgid "Order"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:290
+msgid "Qty"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:291
+msgid "Ship to"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:292
+#: admin/class-paypal-shopping-cart-admin.php:480
+msgid "Date"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:293
+#: templates/cart/psc-cart.php:55
+msgid "Total"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:294
+#: templates/cart/psc-cart.php:50
+msgid "Action"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:474
+msgid "Name"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:475
+msgid "SKU"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:476
+msgid "Stock"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:477
+#: templates/cart/psc-cart.php:53
+msgid "Price"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:478
+msgid "Category"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:479
+msgid "Type"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:625
+msgid "Code"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:626
+msgid "Coupon type"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:627
+msgid "Coupon amount"
+msgstr ""
+
+#: admin/class-paypal-shopping-cart-admin.php:629
+msgid "Expiry date"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:38
+#: admin/partials/paypal-shopping-cart-general-setting.php:99
+#: admin/partials/paypal-shopping-cart-general-setting.php:225
+#: admin/partials/paypal-shopping-cart-general-setting.php:321
+msgid "Save changes"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:48
+msgid "General Options"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:50
+msgid "Currency"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:58
+msgid "Add to cart behaviour"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:67
+msgid "Coupons"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:107
+msgid "Shop & Product Pages"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:110
+msgid "Shop Page"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:117
+#: admin/partials/paypal-shopping-cart-general-setting.php:438
+msgid "Cart Page"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:124
+#: admin/partials/paypal-shopping-cart-general-setting.php:447
+msgid "Checkout Page"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:131
+msgid "Dispaly Product"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:135
+msgid "Display out of stock product in shop page."
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:138
+msgid "Nuber of Column"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:145
+msgid "Catalog Images"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:162
+#: admin/partials/paypal-shopping-cart-general-setting.php:183
+#: admin/partials/paypal-shopping-cart-general-setting.php:204
+msgid "Hard Crop?"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:166
+msgid "Single Product Image"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:187
+msgid "Product Thumbnails"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:252
+msgid "Email settings"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:252
+msgid ""
+"Set your own sender name and email address. Default WordPress values will be "
+"used if empty."
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:254
+#: admin/partials/paypal-shopping-cart-general-setting.php:261
+#: admin/partials/paypal-shopping-cart-general-setting.php:344
+msgid "Enable/Disable"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:256
+msgid "Enable this email notification for customer"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:263
+msgid "Enable this email notification for website admin"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:268
+msgid "\"From\" Name"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:277
+msgid "\"From\" Email Address"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:289
+msgid "Email subject"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:299
+msgid "Email body"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:300
+msgid ""
+"The text to appear in the PayPal Shopping Cart Email. Please read more Help "
+"section(tab) for more dynamic tag"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:341
+msgid "PayPal Express Checkout"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:348
+msgid "Enable PayPal Express Checkout"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:353
+msgid "Title"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:355
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:357
+msgid "PayPal Express"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:365
+msgid ""
+"Pay via PayPal; you can pay with your credit card if you don't have a PayPal "
+"account"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:368
+msgid "PayPal Sandbox"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:371
+msgid "Enable PayPal sandbox"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:373
+msgid ""
+"The sandbox is PayPal's test environment and is only for use with sandbox "
+"accounts created within your <a href=\"http://developer.paypal.com\" target="
+"\"_blank\">PayPal developer account</a>."
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:376
+#: admin/partials/paypal-shopping-cart-general-setting.php:399
+msgid "API Username"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:380
+msgid ""
+"Create sandbox accounts and obtain API credentials from within your <a href="
+"\"http://developer.paypal.com\">PayPal developer account</a>."
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:385
+#: admin/partials/paypal-shopping-cart-general-setting.php:407
+msgid "API Password"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:392
+#: admin/partials/paypal-shopping-cart-general-setting.php:414
+msgid "API Signature"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:403
+msgid ""
+"Get your live account API credentials from your PayPal account profile under "
+"the API Access section or by using <a target=\"_blank\" href=\"https://www."
+"paypal.com/us/cgi-bin/webscr?cmd=_login-api-run\">this tool</a>"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:421
+msgid "Debug"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:424
+msgid "Enable logging <code>/wp-content/uploads/pal-shopping-cart-logs/</code>"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:429
+msgid "Product Page"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:433
+msgid ""
+"Show the Express Checkout button on product detail pages, Allows customers "
+"to checkout using PayPal directly from a product page."
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:442
+msgid ""
+"Show the Express Checkout button on cart pages, Allows customers to checkout "
+"using PayPal directly from a cart page."
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:451
+msgid ""
+"Show the Express Checkout button on checkout pages, Allows customers to "
+"checkout using PayPal directly from a checkout page."
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:456
+msgid "Standard checkout button"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:460
+msgid "Hide standard checkout button on cart page."
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:465
+msgid "Invoice Prefix"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:469
+msgid ""
+"Add a prefix to the invoice ID sent to PayPal. This can resolve duplicate "
+"invoice problems when working with multiple websites on the same PayPal "
+"account."
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:472
+msgid "PayPal Account Optional"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:476
+msgid ""
+"PayPal Account Optional must be turned on in your PayPal account profile "
+"under Website Preferences."
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:480
+msgid "Landing Page"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:484
+msgid ""
+"Type of PayPal page to display as default. PayPal Account Optional must be "
+"checked for this option to be used."
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:485
+msgid "Login"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:486
+msgid "Billing"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:490
+msgid "Use WordPress Locale Code"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:493
+msgid ""
+"Pass the WordPress Locale Code setting to PayPal in order to display "
+"localized PayPal pages to buyers."
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:497
+msgid "Brand Name"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:501
+msgid ""
+"This controls what users see as the brand / company name on PayPal review "
+"pages."
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:505
+msgid "PayPal Checkout Logo (190x90px)"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:509
+msgid "This controls what users see as the logo on PayPal review pages."
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:513
+msgid "PayPal Checkout Banner (750x90px)"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:517
+msgid ""
+"This controls what users see as the header banner on PayPal review pages."
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:521
+msgid "Customer Service Number"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:525
+msgid ""
+"This controls what users see for your customer service phone number on "
+"PayPal review pages."
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:529
+msgid "Skip Final Review"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:532
+msgid ""
+"By default, users will be returned from PayPal and presented with a final "
+"review page which includes shipping and tax in the order details.  Enable "
+"this option to eliminate this page in the checkout process."
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:536
+msgid "Transaction Type"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:539
+msgid ""
+"Sale will capture the funds immediately when the order is placed.  "
+"Authorization will authorize the payment but will not capture the funds.  "
+"You would need to capture funds through your PayPal account when you are "
+"ready to deliver."
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:548
+msgid "Cancel Page"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:552
+msgid ""
+"Sets the page users will be returned to if they click the Cancel link on the "
+"PayPal checkout pages."
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:556
+msgid "Send Item Details"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:560
+msgid ""
+"Include all line item details in the payment request to PayPal so that they "
+"can be seen from the PayPal transaction details page."
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:592
+msgid "United Arab Emirates Dirham"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:593
+msgid "Argentine Peso"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:594
+msgid "Australian Dollars"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:595
+msgid "Bangladeshi Taka"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:596
+msgid "Brazilian Real"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:597
+msgid "Bulgarian Lev"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:598
+msgid "Canadian Dollars"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:599
+msgid "Chilean Peso"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:600
+msgid "Chinese Yuan"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:601
+msgid "Colombian Peso"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:602
+msgid "Czech Koruna"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:603
+msgid "Danish Krone"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:604
+msgid "Dominican Peso"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:605
+msgid "Euros"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:606
+msgid "Hong Kong Dollar"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:607
+msgid "Croatia kuna"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:608
+msgid "Hungarian Forint"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:609
+msgid "Icelandic krona"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:610
+msgid "Indonesia Rupiah"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:611
+msgid "Indian Rupee"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:612
+msgid "Nepali Rupee"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:613
+msgid "Israeli Shekel"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:614
+msgid "Japanese Yen"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:615
+msgid "Lao Kip"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:616
+msgid "South Korean Won"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:617
+msgid "Malaysian Ringgits"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:618
+msgid "Mexican Peso"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:619
+msgid "Nigerian Naira"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:620
+msgid "Norwegian Krone"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:621
+msgid "New Zealand Dollar"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:622
+msgid "Paraguayan Guaraní"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:623
+msgid "Philippine Pesos"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:624
+msgid "Polish Zloty"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:625
+msgid "Pounds Sterling"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:626
+msgid "Romanian Leu"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:627
+msgid "Russian Ruble"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:628
+msgid "Singapore Dollar"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:629
+msgid "South African rand"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:630
+msgid "Swedish Krona"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:631
+msgid "Swiss Franc"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:632
+msgid "Taiwan New Dollars"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:633
+msgid "Thai Baht"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:634
+msgid "Turkish Lira"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:635
+msgid "Ukrainian Hryvnia"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:636
+msgid "US Dollars"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:637
+msgid "Vietnamese Dong"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-general-setting.php:638
+msgid "Egyptian Pound"
+msgstr ""
+
+#: admin/partials/paypal-shopping-cart-html-output.php:287
+msgid "Select a page&hellip;"
+msgstr ""
+
+#: includes/class-paypal-shopping-cart-template-functions.php:364
+#: templates/single-product/psc-product-image.php:30
+msgid "Placeholder"
+msgstr ""
+
+#: includes/class-paypal-shopping-cart.php:94
+msgid "Configure"
+msgstr ""
+
+#: includes/class-paypal-shopping-cart.php:95
+msgid "Support"
+msgstr ""
+
+#: includes/class-paypal-shopping-cart.php:96
+msgid "Write a Review"
+msgstr ""
+
+#: public/partials/paypal-shopping-cart-paypal-express-checkout.php:11
+msgid "PayPal Express Checkout "
+msgstr ""
+
+#: public/partials/paypal-shopping-cart-paypal-express-checkout.php:12
+msgid ""
+"PayPal Express Checkout is designed to make the checkout experience for "
+"buyers using PayPal much more quick and easy than filling out billing and "
+"shipping forms.  Customers will be taken directly to PayPal to sign in and "
+"authorize the payment, and are then returned back to your store to choose a "
+"shipping method, review the final order total, and complete the payment."
+msgstr ""
+
+#: templates/cart/psc-cart.php:51
+msgid "Image"
+msgstr ""
+
+#: templates/cart/psc-cart.php:52
+msgid "Product"
+msgstr ""
+
+#: templates/cart/psc-cart.php:54
+msgid "Quantity"
+msgstr ""
+
+#: templates/cart/psc-cart.php:98
+msgid "Apply Coupon"
+msgstr ""
+
+#: templates/cart/psc-cart.php:100
+msgid "Update Cart"
+msgstr ""
+
+#: templates/cart/psc-cart.php:109
+msgid "Cart Totals"
+msgstr ""
+
+#: templates/checkout/psc-form-checkout.php:38
+msgid "Your order"
+msgstr ""
+
+#: templates/countries/countries.php:15
+msgid "Afghanistan"
+msgstr ""
+
+#: templates/countries/countries.php:16
+msgid "&#197;land Islands"
+msgstr ""
+
+#: templates/countries/countries.php:17
+msgid "Albania"
+msgstr ""
+
+#: templates/countries/countries.php:18
+msgid "Algeria"
+msgstr ""
+
+#: templates/countries/countries.php:19
+msgid "Andorra"
+msgstr ""
+
+#: templates/countries/countries.php:20
+msgid "Angola"
+msgstr ""
+
+#: templates/countries/countries.php:21
+msgid "Anguilla"
+msgstr ""
+
+#: templates/countries/countries.php:22
+msgid "Antarctica"
+msgstr ""
+
+#: templates/countries/countries.php:23
+msgid "Antigua and Barbuda"
+msgstr ""
+
+#: templates/countries/countries.php:24
+msgid "Argentina"
+msgstr ""
+
+#: templates/countries/countries.php:25
+msgid "Armenia"
+msgstr ""
+
+#: templates/countries/countries.php:26
+msgid "Aruba"
+msgstr ""
+
+#: templates/countries/countries.php:27
+msgid "Australia"
+msgstr ""
+
+#: templates/countries/countries.php:28
+msgid "Austria"
+msgstr ""
+
+#: templates/countries/countries.php:29
+msgid "Azerbaijan"
+msgstr ""
+
+#: templates/countries/countries.php:30
+msgid "Bahamas"
+msgstr ""
+
+#: templates/countries/countries.php:31
+msgid "Bahrain"
+msgstr ""
+
+#: templates/countries/countries.php:32
+msgid "Bangladesh"
+msgstr ""
+
+#: templates/countries/countries.php:33
+msgid "Barbados"
+msgstr ""
+
+#: templates/countries/countries.php:34
+msgid "Belarus"
+msgstr ""
+
+#: templates/countries/countries.php:35
+msgid "Belgium"
+msgstr ""
+
+#: templates/countries/countries.php:36
+msgid "Belau"
+msgstr ""
+
+#: templates/countries/countries.php:37
+msgid "Belize"
+msgstr ""
+
+#: templates/countries/countries.php:38
+msgid "Benin"
+msgstr ""
+
+#: templates/countries/countries.php:39
+msgid "Bermuda"
+msgstr ""
+
+#: templates/countries/countries.php:40
+msgid "Bhutan"
+msgstr ""
+
+#: templates/countries/countries.php:41
+msgid "Bolivia"
+msgstr ""
+
+#: templates/countries/countries.php:42
+msgid "Bonaire, Saint Eustatius and Saba"
+msgstr ""
+
+#: templates/countries/countries.php:43
+msgid "Bosnia and Herzegovina"
+msgstr ""
+
+#: templates/countries/countries.php:44
+msgid "Botswana"
+msgstr ""
+
+#: templates/countries/countries.php:45
+msgid "Bouvet Island"
+msgstr ""
+
+#: templates/countries/countries.php:46
+msgid "Brazil"
+msgstr ""
+
+#: templates/countries/countries.php:47
+msgid "British Indian Ocean Territory"
+msgstr ""
+
+#: templates/countries/countries.php:48
+msgid "British Virgin Islands"
+msgstr ""
+
+#: templates/countries/countries.php:49
+msgid "Brunei"
+msgstr ""
+
+#: templates/countries/countries.php:50
+msgid "Bulgaria"
+msgstr ""
+
+#: templates/countries/countries.php:51
+msgid "Burkina Faso"
+msgstr ""
+
+#: templates/countries/countries.php:52
+msgid "Burundi"
+msgstr ""
+
+#: templates/countries/countries.php:53
+msgid "Cambodia"
+msgstr ""
+
+#: templates/countries/countries.php:54
+msgid "Cameroon"
+msgstr ""
+
+#: templates/countries/countries.php:55
+msgid "Canada"
+msgstr ""
+
+#: templates/countries/countries.php:56
+msgid "Cape Verde"
+msgstr ""
+
+#: templates/countries/countries.php:57
+msgid "Cayman Islands"
+msgstr ""
+
+#: templates/countries/countries.php:58
+msgid "Central African Republic"
+msgstr ""
+
+#: templates/countries/countries.php:59
+msgid "Chad"
+msgstr ""
+
+#: templates/countries/countries.php:60
+msgid "Chile"
+msgstr ""
+
+#: templates/countries/countries.php:61
+msgid "China"
+msgstr ""
+
+#: templates/countries/countries.php:62
+msgid "Christmas Island"
+msgstr ""
+
+#: templates/countries/countries.php:63
+msgid "Cocos (Keeling) Islands"
+msgstr ""
+
+#: templates/countries/countries.php:64
+msgid "Colombia"
+msgstr ""
+
+#: templates/countries/countries.php:65
+msgid "Comoros"
+msgstr ""
+
+#: templates/countries/countries.php:66
+msgid "Congo (Brazzaville)"
+msgstr ""
+
+#: templates/countries/countries.php:67
+msgid "Congo (Kinshasa)"
+msgstr ""
+
+#: templates/countries/countries.php:68
+msgid "Cook Islands"
+msgstr ""
+
+#: templates/countries/countries.php:69
+msgid "Costa Rica"
+msgstr ""
+
+#: templates/countries/countries.php:70
+msgid "Croatia"
+msgstr ""
+
+#: templates/countries/countries.php:71
+msgid "Cuba"
+msgstr ""
+
+#: templates/countries/countries.php:72
+msgid "Cura&Ccedil;ao"
+msgstr ""
+
+#: templates/countries/countries.php:73
+msgid "Cyprus"
+msgstr ""
+
+#: templates/countries/countries.php:74
+msgid "Czech Republic"
+msgstr ""
+
+#: templates/countries/countries.php:75
+msgid "Denmark"
+msgstr ""
+
+#: templates/countries/countries.php:76
+msgid "Djibouti"
+msgstr ""
+
+#: templates/countries/countries.php:77
+msgid "Dominica"
+msgstr ""
+
+#: templates/countries/countries.php:78
+msgid "Dominican Republic"
+msgstr ""
+
+#: templates/countries/countries.php:79
+msgid "Ecuador"
+msgstr ""
+
+#: templates/countries/countries.php:80
+msgid "Egypt"
+msgstr ""
+
+#: templates/countries/countries.php:81
+msgid "El Salvador"
+msgstr ""
+
+#: templates/countries/countries.php:82
+msgid "Equatorial Guinea"
+msgstr ""
+
+#: templates/countries/countries.php:83
+msgid "Eritrea"
+msgstr ""
+
+#: templates/countries/countries.php:84
+msgid "Estonia"
+msgstr ""
+
+#: templates/countries/countries.php:85
+msgid "Ethiopia"
+msgstr ""
+
+#: templates/countries/countries.php:86
+msgid "Falkland Islands"
+msgstr ""
+
+#: templates/countries/countries.php:87
+msgid "Faroe Islands"
+msgstr ""
+
+#: templates/countries/countries.php:88
+msgid "Fiji"
+msgstr ""
+
+#: templates/countries/countries.php:89
+msgid "Finland"
+msgstr ""
+
+#: templates/countries/countries.php:90
+msgid "France"
+msgstr ""
+
+#: templates/countries/countries.php:91
+msgid "French Guiana"
+msgstr ""
+
+#: templates/countries/countries.php:92
+msgid "French Polynesia"
+msgstr ""
+
+#: templates/countries/countries.php:93
+msgid "French Southern Territories"
+msgstr ""
+
+#: templates/countries/countries.php:94
+msgid "Gabon"
+msgstr ""
+
+#: templates/countries/countries.php:95
+msgid "Gambia"
+msgstr ""
+
+#: templates/countries/countries.php:96
+msgid "Georgia"
+msgstr ""
+
+#: templates/countries/countries.php:97
+msgid "Germany"
+msgstr ""
+
+#: templates/countries/countries.php:98
+msgid "Ghana"
+msgstr ""
+
+#: templates/countries/countries.php:99
+msgid "Gibraltar"
+msgstr ""
+
+#: templates/countries/countries.php:100
+msgid "Greece"
+msgstr ""
+
+#: templates/countries/countries.php:101
+msgid "Greenland"
+msgstr ""
+
+#: templates/countries/countries.php:102
+msgid "Grenada"
+msgstr ""
+
+#: templates/countries/countries.php:103
+msgid "Guadeloupe"
+msgstr ""
+
+#: templates/countries/countries.php:104
+msgid "Guatemala"
+msgstr ""
+
+#: templates/countries/countries.php:105
+msgid "Guernsey"
+msgstr ""
+
+#: templates/countries/countries.php:106
+msgid "Guinea"
+msgstr ""
+
+#: templates/countries/countries.php:107
+msgid "Guinea-Bissau"
+msgstr ""
+
+#: templates/countries/countries.php:108
+msgid "Guyana"
+msgstr ""
+
+#: templates/countries/countries.php:109
+msgid "Haiti"
+msgstr ""
+
+#: templates/countries/countries.php:110
+msgid "Heard Island and McDonald Islands"
+msgstr ""
+
+#: templates/countries/countries.php:111
+msgid "Honduras"
+msgstr ""
+
+#: templates/countries/countries.php:112
+msgid "Hong Kong"
+msgstr ""
+
+#: templates/countries/countries.php:113
+msgid "Hungary"
+msgstr ""
+
+#: templates/countries/countries.php:114
+msgid "Iceland"
+msgstr ""
+
+#: templates/countries/countries.php:115
+msgid "India"
+msgstr ""
+
+#: templates/countries/countries.php:116
+msgid "Indonesia"
+msgstr ""
+
+#: templates/countries/countries.php:117
+msgid "Iran"
+msgstr ""
+
+#: templates/countries/countries.php:118
+msgid "Iraq"
+msgstr ""
+
+#: templates/countries/countries.php:119
+msgid "Republic of Ireland"
+msgstr ""
+
+#: templates/countries/countries.php:120
+msgid "Isle of Man"
+msgstr ""
+
+#: templates/countries/countries.php:121
+msgid "Israel"
+msgstr ""
+
+#: templates/countries/countries.php:122
+msgid "Italy"
+msgstr ""
+
+#: templates/countries/countries.php:123
+msgid "Ivory Coast"
+msgstr ""
+
+#: templates/countries/countries.php:124
+msgid "Jamaica"
+msgstr ""
+
+#: templates/countries/countries.php:125
+msgid "Japan"
+msgstr ""
+
+#: templates/countries/countries.php:126
+msgid "Jersey"
+msgstr ""
+
+#: templates/countries/countries.php:127
+msgid "Jordan"
+msgstr ""
+
+#: templates/countries/countries.php:128
+msgid "Kazakhstan"
+msgstr ""
+
+#: templates/countries/countries.php:129
+msgid "Kenya"
+msgstr ""
+
+#: templates/countries/countries.php:130
+msgid "Kiribati"
+msgstr ""
+
+#: templates/countries/countries.php:131
+msgid "Kuwait"
+msgstr ""
+
+#: templates/countries/countries.php:132
+msgid "Kyrgyzstan"
+msgstr ""
+
+#: templates/countries/countries.php:133
+msgid "Laos"
+msgstr ""
+
+#: templates/countries/countries.php:134
+msgid "Latvia"
+msgstr ""
+
+#: templates/countries/countries.php:135
+msgid "Lebanon"
+msgstr ""
+
+#: templates/countries/countries.php:136
+msgid "Lesotho"
+msgstr ""
+
+#: templates/countries/countries.php:137
+msgid "Liberia"
+msgstr ""
+
+#: templates/countries/countries.php:138
+msgid "Libya"
+msgstr ""
+
+#: templates/countries/countries.php:139
+msgid "Liechtenstein"
+msgstr ""
+
+#: templates/countries/countries.php:140
+msgid "Lithuania"
+msgstr ""
+
+#: templates/countries/countries.php:141
+msgid "Luxembourg"
+msgstr ""
+
+#: templates/countries/countries.php:142
+msgid "Macao S.A.R., China"
+msgstr ""
+
+#: templates/countries/countries.php:143
+msgid "Macedonia"
+msgstr ""
+
+#: templates/countries/countries.php:144
+msgid "Madagascar"
+msgstr ""
+
+#: templates/countries/countries.php:145
+msgid "Malawi"
+msgstr ""
+
+#: templates/countries/countries.php:146
+msgid "Malaysia"
+msgstr ""
+
+#: templates/countries/countries.php:147
+msgid "Maldives"
+msgstr ""
+
+#: templates/countries/countries.php:148
+msgid "Mali"
+msgstr ""
+
+#: templates/countries/countries.php:149
+msgid "Malta"
+msgstr ""
+
+#: templates/countries/countries.php:150
+msgid "Marshall Islands"
+msgstr ""
+
+#: templates/countries/countries.php:151
+msgid "Martinique"
+msgstr ""
+
+#: templates/countries/countries.php:152
+msgid "Mauritania"
+msgstr ""
+
+#: templates/countries/countries.php:153
+msgid "Mauritius"
+msgstr ""
+
+#: templates/countries/countries.php:154
+msgid "Mayotte"
+msgstr ""
+
+#: templates/countries/countries.php:155
+msgid "Mexico"
+msgstr ""
+
+#: templates/countries/countries.php:156
+msgid "Micronesia"
+msgstr ""
+
+#: templates/countries/countries.php:157
+msgid "Moldova"
+msgstr ""
+
+#: templates/countries/countries.php:158
+msgid "Monaco"
+msgstr ""
+
+#: templates/countries/countries.php:159
+msgid "Mongolia"
+msgstr ""
+
+#: templates/countries/countries.php:160
+msgid "Montenegro"
+msgstr ""
+
+#: templates/countries/countries.php:161
+msgid "Montserrat"
+msgstr ""
+
+#: templates/countries/countries.php:162
+msgid "Morocco"
+msgstr ""
+
+#: templates/countries/countries.php:163
+msgid "Mozambique"
+msgstr ""
+
+#: templates/countries/countries.php:164
+msgid "Myanmar"
+msgstr ""
+
+#: templates/countries/countries.php:165
+msgid "Namibia"
+msgstr ""
+
+#: templates/countries/countries.php:166
+msgid "Nauru"
+msgstr ""
+
+#: templates/countries/countries.php:167
+msgid "Nepal"
+msgstr ""
+
+#: templates/countries/countries.php:168
+msgid "Netherlands"
+msgstr ""
+
+#: templates/countries/countries.php:169
+msgid "Netherlands Antilles"
+msgstr ""
+
+#: templates/countries/countries.php:170
+msgid "New Caledonia"
+msgstr ""
+
+#: templates/countries/countries.php:171
+msgid "New Zealand"
+msgstr ""
+
+#: templates/countries/countries.php:172
+msgid "Nicaragua"
+msgstr ""
+
+#: templates/countries/countries.php:173
+msgid "Niger"
+msgstr ""
+
+#: templates/countries/countries.php:174
+msgid "Nigeria"
+msgstr ""
+
+#: templates/countries/countries.php:175
+msgid "Niue"
+msgstr ""
+
+#: templates/countries/countries.php:176
+msgid "Norfolk Island"
+msgstr ""
+
+#: templates/countries/countries.php:177
+msgid "North Korea"
+msgstr ""
+
+#: templates/countries/countries.php:178
+msgid "Norway"
+msgstr ""
+
+#: templates/countries/countries.php:179
+msgid "Oman"
+msgstr ""
+
+#: templates/countries/countries.php:180
+msgid "Pakistan"
+msgstr ""
+
+#: templates/countries/countries.php:181
+msgid "Palestinian Territory"
+msgstr ""
+
+#: templates/countries/countries.php:182
+msgid "Panama"
+msgstr ""
+
+#: templates/countries/countries.php:183
+msgid "Papua New Guinea"
+msgstr ""
+
+#: templates/countries/countries.php:184
+msgid "Paraguay"
+msgstr ""
+
+#: templates/countries/countries.php:185
+msgid "Peru"
+msgstr ""
+
+#: templates/countries/countries.php:186
+msgid "Philippines"
+msgstr ""
+
+#: templates/countries/countries.php:187
+msgid "Pitcairn"
+msgstr ""
+
+#: templates/countries/countries.php:188
+msgid "Poland"
+msgstr ""
+
+#: templates/countries/countries.php:189
+msgid "Portugal"
+msgstr ""
+
+#: templates/countries/countries.php:190
+msgid "Qatar"
+msgstr ""
+
+#: templates/countries/countries.php:191
+msgid "Reunion"
+msgstr ""
+
+#: templates/countries/countries.php:192
+msgid "Romania"
+msgstr ""
+
+#: templates/countries/countries.php:193
+msgid "Russia"
+msgstr ""
+
+#: templates/countries/countries.php:194
+msgid "Rwanda"
+msgstr ""
+
+#: templates/countries/countries.php:195
+msgid "Saint Barth&eacute;lemy"
+msgstr ""
+
+#: templates/countries/countries.php:196
+msgid "Saint Helena"
+msgstr ""
+
+#: templates/countries/countries.php:197
+msgid "Saint Kitts and Nevis"
+msgstr ""
+
+#: templates/countries/countries.php:198
+msgid "Saint Lucia"
+msgstr ""
+
+#: templates/countries/countries.php:199
+msgid "Saint Martin (French part)"
+msgstr ""
+
+#: templates/countries/countries.php:200
+msgid "Saint Martin (Dutch part)"
+msgstr ""
+
+#: templates/countries/countries.php:201
+msgid "Saint Pierre and Miquelon"
+msgstr ""
+
+#: templates/countries/countries.php:202
+msgid "Saint Vincent and the Grenadines"
+msgstr ""
+
+#: templates/countries/countries.php:203
+msgid "San Marino"
+msgstr ""
+
+#: templates/countries/countries.php:204
+msgid "S&atilde;o Tom&eacute; and Pr&iacute;ncipe"
+msgstr ""
+
+#: templates/countries/countries.php:205
+msgid "Saudi Arabia"
+msgstr ""
+
+#: templates/countries/countries.php:206
+msgid "Senegal"
+msgstr ""
+
+#: templates/countries/countries.php:207
+msgid "Serbia"
+msgstr ""
+
+#: templates/countries/countries.php:208
+msgid "Seychelles"
+msgstr ""
+
+#: templates/countries/countries.php:209
+msgid "Sierra Leone"
+msgstr ""
+
+#: templates/countries/countries.php:210
+msgid "Singapore"
+msgstr ""
+
+#: templates/countries/countries.php:211
+msgid "Slovakia"
+msgstr ""
+
+#: templates/countries/countries.php:212
+msgid "Slovenia"
+msgstr ""
+
+#: templates/countries/countries.php:213
+msgid "Solomon Islands"
+msgstr ""
+
+#: templates/countries/countries.php:214
+msgid "Somalia"
+msgstr ""
+
+#: templates/countries/countries.php:215
+msgid "South Africa"
+msgstr ""
+
+#: templates/countries/countries.php:216
+msgid "South Georgia/Sandwich Islands"
+msgstr ""
+
+#: templates/countries/countries.php:217
+msgid "South Korea"
+msgstr ""
+
+#: templates/countries/countries.php:218
+msgid "South Sudan"
+msgstr ""
+
+#: templates/countries/countries.php:219
+msgid "Spain"
+msgstr ""
+
+#: templates/countries/countries.php:220
+msgid "Sri Lanka"
+msgstr ""
+
+#: templates/countries/countries.php:221
+msgid "Sudan"
+msgstr ""
+
+#: templates/countries/countries.php:222
+msgid "Suriname"
+msgstr ""
+
+#: templates/countries/countries.php:223
+msgid "Svalbard and Jan Mayen"
+msgstr ""
+
+#: templates/countries/countries.php:224
+msgid "Swaziland"
+msgstr ""
+
+#: templates/countries/countries.php:225
+msgid "Sweden"
+msgstr ""
+
+#: templates/countries/countries.php:226
+msgid "Switzerland"
+msgstr ""
+
+#: templates/countries/countries.php:227
+msgid "Syria"
+msgstr ""
+
+#: templates/countries/countries.php:228
+msgid "Taiwan"
+msgstr ""
+
+#: templates/countries/countries.php:229
+msgid "Tajikistan"
+msgstr ""
+
+#: templates/countries/countries.php:230
+msgid "Tanzania"
+msgstr ""
+
+#: templates/countries/countries.php:231
+msgid "Thailand"
+msgstr ""
+
+#: templates/countries/countries.php:232
+msgid "Timor-Leste"
+msgstr ""
+
+#: templates/countries/countries.php:233
+msgid "Togo"
+msgstr ""
+
+#: templates/countries/countries.php:234
+msgid "Tokelau"
+msgstr ""
+
+#: templates/countries/countries.php:235
+msgid "Tonga"
+msgstr ""
+
+#: templates/countries/countries.php:236
+msgid "Trinidad and Tobago"
+msgstr ""
+
+#: templates/countries/countries.php:237
+msgid "Tunisia"
+msgstr ""
+
+#: templates/countries/countries.php:238
+msgid "Turkey"
+msgstr ""
+
+#: templates/countries/countries.php:239
+msgid "Turkmenistan"
+msgstr ""
+
+#: templates/countries/countries.php:240
+msgid "Turks and Caicos Islands"
+msgstr ""
+
+#: templates/countries/countries.php:241
+msgid "Tuvalu"
+msgstr ""
+
+#: templates/countries/countries.php:242
+msgid "Uganda"
+msgstr ""
+
+#: templates/countries/countries.php:243
+msgid "Ukraine"
+msgstr ""
+
+#: templates/countries/countries.php:244
+msgid "United Arab Emirates"
+msgstr ""
+
+#: templates/countries/countries.php:245
+msgid "United Kingdom (UK)"
+msgstr ""
+
+#: templates/countries/countries.php:246
+msgid "United States (US)"
+msgstr ""
+
+#: templates/countries/countries.php:247
+msgid "Uruguay"
+msgstr ""
+
+#: templates/countries/countries.php:248
+msgid "Uzbekistan"
+msgstr ""
+
+#: templates/countries/countries.php:249
+msgid "Vanuatu"
+msgstr ""
+
+#: templates/countries/countries.php:250
+msgid "Vatican"
+msgstr ""
+
+#: templates/countries/countries.php:251
+msgid "Venezuela"
+msgstr ""
+
+#: templates/countries/countries.php:252
+msgid "Vietnam"
+msgstr ""
+
+#: templates/countries/countries.php:253
+msgid "Wallis and Futuna"
+msgstr ""
+
+#: templates/countries/countries.php:254
+msgid "Western Sahara"
+msgstr ""
+
+#: templates/countries/countries.php:255
+msgid "Western Samoa"
+msgstr ""
+
+#: templates/countries/countries.php:256
+msgid "Yemen"
+msgstr ""
+
+#: templates/countries/countries.php:257
+msgid "Zambia"
+msgstr ""
+
+#: templates/countries/countries.php:258
+msgid "Zimbabwe"
+msgstr ""
+
+#: templates/countries/states/AR.php:9
+msgid "Ciudad Aut&oacute;noma de Buenos Aires"
+msgstr ""
+
+#: templates/countries/states/AR.php:10
+msgid "Buenos Aires"
+msgstr ""
+
+#: templates/countries/states/AR.php:11
+msgid "Catamarca"
+msgstr ""
+
+#: templates/countries/states/AR.php:12
+msgid "Chaco"
+msgstr ""
+
+#: templates/countries/states/AR.php:13
+msgid "Chubut"
+msgstr ""
+
+#: templates/countries/states/AR.php:14 templates/countries/states/ES.php:26
+msgid "C&oacute;rdoba"
+msgstr ""
+
+#: templates/countries/states/AR.php:15
+msgid "Corrientes"
+msgstr ""
+
+#: templates/countries/states/AR.php:16
+msgid "Entre R&iacute;os"
+msgstr ""
+
+#: templates/countries/states/AR.php:17
+msgid "Formosa"
+msgstr ""
+
+#: templates/countries/states/AR.php:18
+msgid "Jujuy"
+msgstr ""
+
+#: templates/countries/states/AR.php:19
+msgid "La Pampa"
+msgstr ""
+
+#: templates/countries/states/AR.php:20 templates/countries/states/ES.php:35
+msgid "La Rioja"
+msgstr ""
+
+#: templates/countries/states/AR.php:21
+msgid "Mendoza"
+msgstr ""
+
+#: templates/countries/states/AR.php:22
+msgid "Misiones"
+msgstr ""
+
+#: templates/countries/states/AR.php:23
+msgid "Neuqu&eacute;n"
+msgstr ""
+
+#: templates/countries/states/AR.php:24
+msgid "R&iacute;o Negro"
+msgstr ""
+
+#: templates/countries/states/AR.php:25
+msgid "Salta"
+msgstr ""
+
+#: templates/countries/states/AR.php:26
+msgid "San Juan"
+msgstr ""
+
+#: templates/countries/states/AR.php:27
+msgid "San Luis"
+msgstr ""
+
+#: templates/countries/states/AR.php:28
+msgid "Santa Cruz"
+msgstr ""
+
+#: templates/countries/states/AR.php:29
+msgid "Santa Fe"
+msgstr ""
+
+#: templates/countries/states/AR.php:30
+msgid "Santiago del Estero"
+msgstr ""
+
+#: templates/countries/states/AR.php:31
+msgid "Tierra del Fuego"
+msgstr ""
+
+#: templates/countries/states/AR.php:32
+msgid "Tucum&aacute;n"
+msgstr ""
+
+#: templates/countries/states/AU.php:9
+msgid "Australian Capital Territory"
+msgstr ""
+
+#: templates/countries/states/AU.php:10
+msgid "New South Wales"
+msgstr ""
+
+#: templates/countries/states/AU.php:11
+msgid "Northern Territory"
+msgstr ""
+
+#: templates/countries/states/AU.php:12
+msgid "Queensland"
+msgstr ""
+
+#: templates/countries/states/AU.php:13
+msgid "South Australia"
+msgstr ""
+
+#: templates/countries/states/AU.php:14
+msgid "Tasmania"
+msgstr ""
+
+#: templates/countries/states/AU.php:15
+msgid "Victoria"
+msgstr ""
+
+#: templates/countries/states/AU.php:16
+msgid "Western Australia"
+msgstr ""
+
+#: templates/countries/states/BD.php:9
+msgid "Bagerhat"
+msgstr ""
+
+#: templates/countries/states/BD.php:10
+msgid "Bandarban"
+msgstr ""
+
+#: templates/countries/states/BD.php:11
+msgid "Barguna"
+msgstr ""
+
+#: templates/countries/states/BD.php:12
+msgid "Barisal"
+msgstr ""
+
+#: templates/countries/states/BD.php:13
+msgid "Bhola"
+msgstr ""
+
+#: templates/countries/states/BD.php:14
+msgid "Bogra"
+msgstr ""
+
+#: templates/countries/states/BD.php:15
+msgid "Brahmanbaria"
+msgstr ""
+
+#: templates/countries/states/BD.php:16
+msgid "Chandpur"
+msgstr ""
+
+#: templates/countries/states/BD.php:17
+msgid "Chittagong"
+msgstr ""
+
+#: templates/countries/states/BD.php:18
+msgid "Chuadanga"
+msgstr ""
+
+#: templates/countries/states/BD.php:19
+msgid "Comilla"
+msgstr ""
+
+#: templates/countries/states/BD.php:20
+msgid "Cox's Bazar"
+msgstr ""
+
+#: templates/countries/states/BD.php:21
+msgid "Dhaka"
+msgstr ""
+
+#: templates/countries/states/BD.php:22
+msgid "Dinajpur"
+msgstr ""
+
+#: templates/countries/states/BD.php:23
+msgid "Faridpur "
+msgstr ""
+
+#: templates/countries/states/BD.php:24
+msgid "Feni"
+msgstr ""
+
+#: templates/countries/states/BD.php:25
+msgid "Gaibandha"
+msgstr ""
+
+#: templates/countries/states/BD.php:26
+msgid "Gazipur"
+msgstr ""
+
+#: templates/countries/states/BD.php:27
+msgid "Gopalganj"
+msgstr ""
+
+#: templates/countries/states/BD.php:28
+msgid "Habiganj"
+msgstr ""
+
+#: templates/countries/states/BD.php:29
+msgid "Jamalpur"
+msgstr ""
+
+#: templates/countries/states/BD.php:30
+msgid "Jessore"
+msgstr ""
+
+#: templates/countries/states/BD.php:31
+msgid "Jhalokati"
+msgstr ""
+
+#: templates/countries/states/BD.php:32
+msgid "Jhenaidah"
+msgstr ""
+
+#: templates/countries/states/BD.php:33
+msgid "Joypurhat"
+msgstr ""
+
+#: templates/countries/states/BD.php:34
+msgid "Khagrachhari"
+msgstr ""
+
+#: templates/countries/states/BD.php:35
+msgid "Khulna"
+msgstr ""
+
+#: templates/countries/states/BD.php:36
+msgid "Kishoreganj"
+msgstr ""
+
+#: templates/countries/states/BD.php:37
+msgid "Kurigram"
+msgstr ""
+
+#: templates/countries/states/BD.php:38
+msgid "Kushtia"
+msgstr ""
+
+#: templates/countries/states/BD.php:39
+msgid "Lakshmipur"
+msgstr ""
+
+#: templates/countries/states/BD.php:40
+msgid "Lalmonirhat"
+msgstr ""
+
+#: templates/countries/states/BD.php:41
+msgid "Madaripur"
+msgstr ""
+
+#: templates/countries/states/BD.php:42
+msgid "Magura"
+msgstr ""
+
+#: templates/countries/states/BD.php:43
+msgid "Manikganj "
+msgstr ""
+
+#: templates/countries/states/BD.php:44
+msgid "Meherpur"
+msgstr ""
+
+#: templates/countries/states/BD.php:45
+msgid "Moulvibazar"
+msgstr ""
+
+#: templates/countries/states/BD.php:46
+msgid "Munshiganj"
+msgstr ""
+
+#: templates/countries/states/BD.php:47
+msgid "Mymensingh"
+msgstr ""
+
+#: templates/countries/states/BD.php:48
+msgid "Naogaon"
+msgstr ""
+
+#: templates/countries/states/BD.php:49
+msgid "Narail"
+msgstr ""
+
+#: templates/countries/states/BD.php:50
+msgid "Narayanganj"
+msgstr ""
+
+#: templates/countries/states/BD.php:51
+msgid "Narsingdi"
+msgstr ""
+
+#: templates/countries/states/BD.php:52
+msgid "Natore"
+msgstr ""
+
+#: templates/countries/states/BD.php:53
+msgid "Nawabganj"
+msgstr ""
+
+#: templates/countries/states/BD.php:54
+msgid "Netrakona"
+msgstr ""
+
+#: templates/countries/states/BD.php:55
+msgid "Nilphamari"
+msgstr ""
+
+#: templates/countries/states/BD.php:56
+msgid "Noakhali"
+msgstr ""
+
+#: templates/countries/states/BD.php:57
+msgid "Pabna"
+msgstr ""
+
+#: templates/countries/states/BD.php:58
+msgid "Panchagarh"
+msgstr ""
+
+#: templates/countries/states/BD.php:59
+msgid "Patuakhali"
+msgstr ""
+
+#: templates/countries/states/BD.php:60
+msgid "Pirojpur"
+msgstr ""
+
+#: templates/countries/states/BD.php:61
+msgid "Rajbari"
+msgstr ""
+
+#: templates/countries/states/BD.php:62
+msgid "Rajshahi"
+msgstr ""
+
+#: templates/countries/states/BD.php:63
+msgid "Rangamati"
+msgstr ""
+
+#: templates/countries/states/BD.php:64
+msgid "Rangpur"
+msgstr ""
+
+#: templates/countries/states/BD.php:65
+msgid "Satkhira"
+msgstr ""
+
+#: templates/countries/states/BD.php:66
+msgid "Shariatpur"
+msgstr ""
+
+#: templates/countries/states/BD.php:67
+msgid "Sherpur"
+msgstr ""
+
+#: templates/countries/states/BD.php:68
+msgid "Sirajganj"
+msgstr ""
+
+#: templates/countries/states/BD.php:69
+msgid "Sunamganj"
+msgstr ""
+
+#: templates/countries/states/BD.php:70
+msgid "Sylhet"
+msgstr ""
+
+#: templates/countries/states/BD.php:71
+msgid "Tangail"
+msgstr ""
+
+#: templates/countries/states/BD.php:72
+msgid "Thakurgaon"
+msgstr ""
+
+#: templates/countries/states/BG.php:9
+msgid "Blagoevgrad"
+msgstr ""
+
+#: templates/countries/states/BG.php:10
+msgid "Burgas"
+msgstr ""
+
+#: templates/countries/states/BG.php:11
+msgid "Dobrich"
+msgstr ""
+
+#: templates/countries/states/BG.php:12
+msgid "Gabrovo"
+msgstr ""
+
+#: templates/countries/states/BG.php:13
+msgid "Haskovo"
+msgstr ""
+
+#: templates/countries/states/BG.php:14
+msgid "Kardzhali"
+msgstr ""
+
+#: templates/countries/states/BG.php:15
+msgid "Kyustendil"
+msgstr ""
+
+#: templates/countries/states/BG.php:16
+msgid "Lovech"
+msgstr ""
+
+#: templates/countries/states/BG.php:17 templates/countries/states/US.php:35
+msgid "Montana"
+msgstr ""
+
+#: templates/countries/states/BG.php:18
+msgid "Pazardzhik"
+msgstr ""
+
+#: templates/countries/states/BG.php:19
+msgid "Pernik"
+msgstr ""
+
+#: templates/countries/states/BG.php:20
+msgid "Pleven"
+msgstr ""
+
+#: templates/countries/states/BG.php:21
+msgid "Plovdiv"
+msgstr ""
+
+#: templates/countries/states/BG.php:22
+msgid "Razgrad"
+msgstr ""
+
+#: templates/countries/states/BG.php:23
+msgid "Ruse"
+msgstr ""
+
+#: templates/countries/states/BG.php:24
+msgid "Shumen"
+msgstr ""
+
+#: templates/countries/states/BG.php:25
+msgid "Silistra"
+msgstr ""
+
+#: templates/countries/states/BG.php:26
+msgid "Sliven"
+msgstr ""
+
+#: templates/countries/states/BG.php:27
+msgid "Smolyan"
+msgstr ""
+
+#: templates/countries/states/BG.php:28
+msgid "Sofia"
+msgstr ""
+
+#: templates/countries/states/BG.php:29
+msgid "Sofia-Grad"
+msgstr ""
+
+#: templates/countries/states/BG.php:30
+msgid "Stara Zagora"
+msgstr ""
+
+#: templates/countries/states/BG.php:31
+msgid "Targovishte"
+msgstr ""
+
+#: templates/countries/states/BG.php:32
+msgid "Varna"
+msgstr ""
+
+#: templates/countries/states/BG.php:33
+msgid "Veliko Tarnovo"
+msgstr ""
+
+#: templates/countries/states/BG.php:34
+msgid "Vidin"
+msgstr ""
+
+#: templates/countries/states/BG.php:35
+msgid "Vratsa"
+msgstr ""
+
+#: templates/countries/states/BG.php:36
+msgid "Yambol"
+msgstr ""
+
+#: templates/countries/states/BR.php:9
+msgid "Acre"
+msgstr ""
+
+#: templates/countries/states/BR.php:10
+msgid "Alagoas"
+msgstr ""
+
+#: templates/countries/states/BR.php:11
+msgid "Amap&aacute;"
+msgstr ""
+
+#: templates/countries/states/BR.php:12 templates/countries/states/PE.php:11
+msgid "Amazonas"
+msgstr ""
+
+#: templates/countries/states/BR.php:13
+msgid "Bahia"
+msgstr ""
+
+#: templates/countries/states/BR.php:14
+msgid "Cear&aacute;"
+msgstr ""
+
+#: templates/countries/states/BR.php:15 templates/countries/states/MX.php:9
+msgid "Distrito Federal"
+msgstr ""
+
+#: templates/countries/states/BR.php:16
+msgid "Esp&iacute;rito Santo"
+msgstr ""
+
+#: templates/countries/states/BR.php:17
+msgid "Goi&aacute;s"
+msgstr ""
+
+#: templates/countries/states/BR.php:18
+msgid "Maranh&atilde;o"
+msgstr ""
+
+#: templates/countries/states/BR.php:19
+msgid "Mato Grosso"
+msgstr ""
+
+#: templates/countries/states/BR.php:20
+msgid "Mato Grosso do Sul"
+msgstr ""
+
+#: templates/countries/states/BR.php:21
+msgid "Minas Gerais"
+msgstr ""
+
+#: templates/countries/states/BR.php:22
+msgid "Par&aacute;"
+msgstr ""
+
+#: templates/countries/states/BR.php:23
+msgid "Para&iacute;ba"
+msgstr ""
+
+#: templates/countries/states/BR.php:24
+msgid "Paran&aacute;"
+msgstr ""
+
+#: templates/countries/states/BR.php:25
+msgid "Pernambuco"
+msgstr ""
+
+#: templates/countries/states/BR.php:26
+msgid "Piau&iacute;"
+msgstr ""
+
+#: templates/countries/states/BR.php:27
+msgid "Rio de Janeiro"
+msgstr ""
+
+#: templates/countries/states/BR.php:28
+msgid "Rio Grande do Norte"
+msgstr ""
+
+#: templates/countries/states/BR.php:29
+msgid "Rio Grande do Sul"
+msgstr ""
+
+#: templates/countries/states/BR.php:30
+msgid "Rond&ocirc;nia"
+msgstr ""
+
+#: templates/countries/states/BR.php:31
+msgid "Roraima"
+msgstr ""
+
+#: templates/countries/states/BR.php:32
+msgid "Santa Catarina"
+msgstr ""
+
+#: templates/countries/states/BR.php:33
+msgid "S&atilde;o Paulo"
+msgstr ""
+
+#: templates/countries/states/BR.php:34
+msgid "Sergipe"
+msgstr ""
+
+#: templates/countries/states/BR.php:35
+msgid "Tocantins"
+msgstr ""
+
+#: templates/countries/states/CA.php:9
+msgid "Alberta"
+msgstr ""
+
+#: templates/countries/states/CA.php:10
+msgid "British Columbia"
+msgstr ""
+
+#: templates/countries/states/CA.php:11
+msgid "Manitoba"
+msgstr ""
+
+#: templates/countries/states/CA.php:12
+msgid "New Brunswick"
+msgstr ""
+
+#: templates/countries/states/CA.php:13
+msgid "Newfoundland and Labrador"
+msgstr ""
+
+#: templates/countries/states/CA.php:14
+msgid "Northwest Territories"
+msgstr ""
+
+#: templates/countries/states/CA.php:15
+msgid "Nova Scotia"
+msgstr ""
+
+#: templates/countries/states/CA.php:16
+msgid "Nunavut"
+msgstr ""
+
+#: templates/countries/states/CA.php:17
+msgid "Ontario"
+msgstr ""
+
+#: templates/countries/states/CA.php:18
+msgid "Prince Edward Island"
+msgstr ""
+
+#: templates/countries/states/CA.php:19
+msgid "Quebec"
+msgstr ""
+
+#: templates/countries/states/CA.php:20
+msgid "Saskatchewan"
+msgstr ""
+
+#: templates/countries/states/CA.php:21
+msgid "Yukon Territory"
+msgstr ""
+
+#: templates/countries/states/CN.php:9
+msgid "Yunnan / &#20113;&#21335;"
+msgstr ""
+
+#: templates/countries/states/CN.php:10
+msgid "Beijing / &#21271;&#20140;"
+msgstr ""
+
+#: templates/countries/states/CN.php:11
+msgid "Tianjin / &#22825;&#27941;"
+msgstr ""
+
+#: templates/countries/states/CN.php:12
+msgid "Hebei / &#27827;&#21271;"
+msgstr ""
+
+#: templates/countries/states/CN.php:13
+msgid "Shanxi / &#23665;&#35199;"
+msgstr ""
+
+#: templates/countries/states/CN.php:14
+msgid "Inner Mongolia / &#20839;&#33945;&#21476;"
+msgstr ""
+
+#: templates/countries/states/CN.php:15
+msgid "Liaoning / &#36797;&#23425;"
+msgstr ""
+
+#: templates/countries/states/CN.php:16
+msgid "Jilin / &#21513;&#26519;"
+msgstr ""
+
+#: templates/countries/states/CN.php:17
+msgid "Heilongjiang / &#40657;&#40857;&#27743;"
+msgstr ""
+
+#: templates/countries/states/CN.php:18
+msgid "Shanghai / &#19978;&#28023;"
+msgstr ""
+
+#: templates/countries/states/CN.php:19
+msgid "Jiangsu / &#27743;&#33487;"
+msgstr ""
+
+#: templates/countries/states/CN.php:20
+msgid "Zhejiang / &#27993;&#27743;"
+msgstr ""
+
+#: templates/countries/states/CN.php:21
+msgid "Anhui / &#23433;&#24509;"
+msgstr ""
+
+#: templates/countries/states/CN.php:22
+msgid "Fujian / &#31119;&#24314;"
+msgstr ""
+
+#: templates/countries/states/CN.php:23
+msgid "Jiangxi / &#27743;&#35199;"
+msgstr ""
+
+#: templates/countries/states/CN.php:24
+msgid "Shandong / &#23665;&#19996;"
+msgstr ""
+
+#: templates/countries/states/CN.php:25
+msgid "Henan / &#27827;&#21335;"
+msgstr ""
+
+#: templates/countries/states/CN.php:26
+msgid "Hubei / &#28246;&#21271;"
+msgstr ""
+
+#: templates/countries/states/CN.php:27
+msgid "Hunan / &#28246;&#21335;"
+msgstr ""
+
+#: templates/countries/states/CN.php:28
+msgid "Guangdong / &#24191;&#19996;"
+msgstr ""
+
+#: templates/countries/states/CN.php:29
+msgid "Guangxi Zhuang / &#24191;&#35199;&#22766;&#26063;"
+msgstr ""
+
+#: templates/countries/states/CN.php:30
+msgid "Hainan / &#28023;&#21335;"
+msgstr ""
+
+#: templates/countries/states/CN.php:31
+msgid "Chongqing / &#37325;&#24198;"
+msgstr ""
+
+#: templates/countries/states/CN.php:32
+msgid "Sichuan / &#22235;&#24029;"
+msgstr ""
+
+#: templates/countries/states/CN.php:33
+msgid "Guizhou / &#36149;&#24030;"
+msgstr ""
+
+#: templates/countries/states/CN.php:34
+msgid "Shaanxi / &#38485;&#35199;"
+msgstr ""
+
+#: templates/countries/states/CN.php:35
+msgid "Gansu / &#29976;&#32899;"
+msgstr ""
+
+#: templates/countries/states/CN.php:36
+msgid "Qinghai / &#38738;&#28023;"
+msgstr ""
+
+#: templates/countries/states/CN.php:37
+msgid "Ningxia Hui / &#23425;&#22799;"
+msgstr ""
+
+#: templates/countries/states/CN.php:38
+msgid "Macau / &#28595;&#38376;"
+msgstr ""
+
+#: templates/countries/states/CN.php:39
+msgid "Tibet / &#35199;&#34255;"
+msgstr ""
+
+#: templates/countries/states/CN.php:40
+msgid "Xinjiang / &#26032;&#30086;"
+msgstr ""
+
+#: templates/countries/states/ES.php:9
+msgid "A Coru&ntilde;a"
+msgstr ""
+
+#: templates/countries/states/ES.php:10
+msgid "Araba/&Aacute;lava"
+msgstr ""
+
+#: templates/countries/states/ES.php:11
+msgid "Albacete"
+msgstr ""
+
+#: templates/countries/states/ES.php:12
+msgid "Alicante"
+msgstr ""
+
+#: templates/countries/states/ES.php:13
+msgid "Almer&iacute;a"
+msgstr ""
+
+#: templates/countries/states/ES.php:14
+msgid "Asturias"
+msgstr ""
+
+#: templates/countries/states/ES.php:15
+msgid "&Aacute;vila"
+msgstr ""
+
+#: templates/countries/states/ES.php:16
+msgid "Badajoz"
+msgstr ""
+
+#: templates/countries/states/ES.php:17
+msgid "Baleares"
+msgstr ""
+
+#: templates/countries/states/ES.php:18
+msgid "Barcelona"
+msgstr ""
+
+#: templates/countries/states/ES.php:19
+msgid "Burgos"
+msgstr ""
+
+#: templates/countries/states/ES.php:20
+msgid "C&aacute;ceres"
+msgstr ""
+
+#: templates/countries/states/ES.php:21
+msgid "C&aacute;diz"
+msgstr ""
+
+#: templates/countries/states/ES.php:22
+msgid "Cantabria"
+msgstr ""
+
+#: templates/countries/states/ES.php:23
+msgid "Castell&oacute;n"
+msgstr ""
+
+#: templates/countries/states/ES.php:24
+msgid "Ceuta"
+msgstr ""
+
+#: templates/countries/states/ES.php:25
+msgid "Ciudad Real"
+msgstr ""
+
+#: templates/countries/states/ES.php:27
+msgid "Cuenca"
+msgstr ""
+
+#: templates/countries/states/ES.php:28
+msgid "Girona"
+msgstr ""
+
+#: templates/countries/states/ES.php:29
+msgid "Granada"
+msgstr ""
+
+#: templates/countries/states/ES.php:30
+msgid "Guadalajara"
+msgstr ""
+
+#: templates/countries/states/ES.php:31
+msgid "Gipuzkoa"
+msgstr ""
+
+#: templates/countries/states/ES.php:32
+msgid "Huelva"
+msgstr ""
+
+#: templates/countries/states/ES.php:33
+msgid "Huesca"
+msgstr ""
+
+#: templates/countries/states/ES.php:34
+msgid "Ja&eacute;n"
+msgstr ""
+
+#: templates/countries/states/ES.php:36
+msgid "Las Palmas"
+msgstr ""
+
+#: templates/countries/states/ES.php:37
+msgid "Le&oacute;n"
+msgstr ""
+
+#: templates/countries/states/ES.php:38
+msgid "Lleida"
+msgstr ""
+
+#: templates/countries/states/ES.php:39
+msgid "Lugo"
+msgstr ""
+
+#: templates/countries/states/ES.php:40
+msgid "Madrid"
+msgstr ""
+
+#: templates/countries/states/ES.php:41
+msgid "M&aacute;laga"
+msgstr ""
+
+#: templates/countries/states/ES.php:42
+msgid "Melilla"
+msgstr ""
+
+#: templates/countries/states/ES.php:43
+msgid "Murcia"
+msgstr ""
+
+#: templates/countries/states/ES.php:44
+msgid "Navarra"
+msgstr ""
+
+#: templates/countries/states/ES.php:45
+msgid "Ourense"
+msgstr ""
+
+#: templates/countries/states/ES.php:46
+msgid "Palencia"
+msgstr ""
+
+#: templates/countries/states/ES.php:47
+msgid "Pontevedra"
+msgstr ""
+
+#: templates/countries/states/ES.php:48
+msgid "Salamanca"
+msgstr ""
+
+#: templates/countries/states/ES.php:49
+msgid "Santa Cruz de Tenerife"
+msgstr ""
+
+#: templates/countries/states/ES.php:50
+msgid "Segovia"
+msgstr ""
+
+#: templates/countries/states/ES.php:51
+msgid "Sevilla"
+msgstr ""
+
+#: templates/countries/states/ES.php:52
+msgid "Soria"
+msgstr ""
+
+#: templates/countries/states/ES.php:53
+msgid "Tarragona"
+msgstr ""
+
+#: templates/countries/states/ES.php:54
+msgid "Teruel"
+msgstr ""
+
+#: templates/countries/states/ES.php:55
+msgid "Toledo"
+msgstr ""
+
+#: templates/countries/states/ES.php:56
+msgid "Valencia"
+msgstr ""
+
+#: templates/countries/states/ES.php:57
+msgid "Valladolid"
+msgstr ""
+
+#: templates/countries/states/ES.php:58
+msgid "Bizkaia"
+msgstr ""
+
+#: templates/countries/states/ES.php:59
+msgid "Zamora"
+msgstr ""
+
+#: templates/countries/states/ES.php:60
+msgid "Zaragoza"
+msgstr ""
+
+#: templates/countries/states/GR.php:9
+msgid "Αττική"
+msgstr ""
+
+#: templates/countries/states/GR.php:10
+msgid "Ανατολική Μακεδονία και Θράκη"
+msgstr ""
+
+#: templates/countries/states/GR.php:11
+msgid "Κεντρική Μακεδονία"
+msgstr ""
+
+#: templates/countries/states/GR.php:12
+msgid "Δυτική Μακεδονία"
+msgstr ""
+
+#: templates/countries/states/GR.php:13
+msgid "Ήπειρος"
+msgstr ""
+
+#: templates/countries/states/GR.php:14
+msgid "Θεσσαλία"
+msgstr ""
+
+#: templates/countries/states/GR.php:15
+msgid "Ιόνιοι Νήσοι"
+msgstr ""
+
+#: templates/countries/states/GR.php:16
+msgid "Δυτική Ελλάδα"
+msgstr ""
+
+#: templates/countries/states/GR.php:17
+msgid "Στερεά Ελλάδα"
+msgstr ""
+
+#: templates/countries/states/GR.php:18
+msgid "Πελοπόννησος"
+msgstr ""
+
+#: templates/countries/states/GR.php:19
+msgid "Βόρειο Αιγαίο"
+msgstr ""
+
+#: templates/countries/states/GR.php:20
+msgid "Νότιο Αιγαίο"
+msgstr ""
+
+#: templates/countries/states/GR.php:21
+msgid "Κρήτη"
+msgstr ""
+
+#: templates/countries/states/HK.php:9
+msgid "Hong Kong Island"
+msgstr ""
+
+#: templates/countries/states/HK.php:10
+msgid "Kowloon"
+msgstr ""
+
+#: templates/countries/states/HK.php:11
+msgid "New Territories"
+msgstr ""
+
+#: templates/countries/states/HU.php:9
+msgid "Bács-Kiskun"
+msgstr ""
+
+#: templates/countries/states/HU.php:10
+msgid "Békés"
+msgstr ""
+
+#: templates/countries/states/HU.php:11
+msgid "Baranya"
+msgstr ""
+
+#: templates/countries/states/HU.php:12
+msgid "Borsod-Abaúj-Zemplén"
+msgstr ""
+
+#: templates/countries/states/HU.php:13
+msgid "Budapest"
+msgstr ""
+
+#: templates/countries/states/HU.php:14
+msgid "Csongrád"
+msgstr ""
+
+#: templates/countries/states/HU.php:15
+msgid "Fejér"
+msgstr ""
+
+#: templates/countries/states/HU.php:16
+msgid "Győr-Moson-Sopron"
+msgstr ""
+
+#: templates/countries/states/HU.php:17
+msgid "Hajdú-Bihar"
+msgstr ""
+
+#: templates/countries/states/HU.php:18
+msgid "Heves"
+msgstr ""
+
+#: templates/countries/states/HU.php:19
+msgid "Jász-Nagykun-Szolnok"
+msgstr ""
+
+#: templates/countries/states/HU.php:20
+msgid "Komárom-Esztergom"
+msgstr ""
+
+#: templates/countries/states/HU.php:21
+msgid "Nógrád"
+msgstr ""
+
+#: templates/countries/states/HU.php:22
+msgid "Pest"
+msgstr ""
+
+#: templates/countries/states/HU.php:23
+msgid "Somogy"
+msgstr ""
+
+#: templates/countries/states/HU.php:24
+msgid "Szabolcs-Szatmár-Bereg"
+msgstr ""
+
+#: templates/countries/states/HU.php:25
+msgid "Tolna"
+msgstr ""
+
+#: templates/countries/states/HU.php:26
+msgid "Vas"
+msgstr ""
+
+#: templates/countries/states/HU.php:27
+msgid "Veszprém"
+msgstr ""
+
+#: templates/countries/states/HU.php:28
+msgid "Zala"
+msgstr ""
+
+#: templates/countries/states/ID.php:9
+msgid "Daerah Istimewa Aceh"
+msgstr ""
+
+#: templates/countries/states/ID.php:10
+msgid "Sumatera Utara"
+msgstr ""
+
+#: templates/countries/states/ID.php:11
+msgid "Sumatera Barat"
+msgstr ""
+
+#: templates/countries/states/ID.php:12
+msgid "Riau"
+msgstr ""
+
+#: templates/countries/states/ID.php:13
+msgid "Kepulauan Riau"
+msgstr ""
+
+#: templates/countries/states/ID.php:14
+msgid "Jambi"
+msgstr ""
+
+#: templates/countries/states/ID.php:15
+msgid "Sumatera Selatan"
+msgstr ""
+
+#: templates/countries/states/ID.php:16
+msgid "Bangka Belitung"
+msgstr ""
+
+#: templates/countries/states/ID.php:17
+msgid "Bengkulu"
+msgstr ""
+
+#: templates/countries/states/ID.php:18
+msgid "Lampung"
+msgstr ""
+
+#: templates/countries/states/ID.php:19
+msgid "DKI Jakarta"
+msgstr ""
+
+#: templates/countries/states/ID.php:20
+msgid "Jawa Barat"
+msgstr ""
+
+#: templates/countries/states/ID.php:21
+msgid "Banten"
+msgstr ""
+
+#: templates/countries/states/ID.php:22
+msgid "Jawa Tengah"
+msgstr ""
+
+#: templates/countries/states/ID.php:23
+msgid "Jawa Timur"
+msgstr ""
+
+#: templates/countries/states/ID.php:24
+msgid "Daerah Istimewa Yogyakarta"
+msgstr ""
+
+#: templates/countries/states/ID.php:25
+msgid "Bali"
+msgstr ""
+
+#: templates/countries/states/ID.php:26
+msgid "Nusa Tenggara Barat"
+msgstr ""
+
+#: templates/countries/states/ID.php:27
+msgid "Nusa Tenggara Timur"
+msgstr ""
+
+#: templates/countries/states/ID.php:28
+msgid "Kalimantan Barat"
+msgstr ""
+
+#: templates/countries/states/ID.php:29
+msgid "Kalimantan Tengah"
+msgstr ""
+
+#: templates/countries/states/ID.php:30
+msgid "Kalimantan Timur"
+msgstr ""
+
+#: templates/countries/states/ID.php:31
+msgid "Kalimantan Selatan"
+msgstr ""
+
+#: templates/countries/states/ID.php:32
+msgid "Kalimantan Utara"
+msgstr ""
+
+#: templates/countries/states/ID.php:33
+msgid "Sulawesi Utara"
+msgstr ""
+
+#: templates/countries/states/ID.php:34
+msgid "Sulawesi Tengah"
+msgstr ""
+
+#: templates/countries/states/ID.php:35
+msgid "Sulawesi Tenggara"
+msgstr ""
+
+#: templates/countries/states/ID.php:36
+msgid "Sulawesi Barat"
+msgstr ""
+
+#: templates/countries/states/ID.php:37
+msgid "Sulawesi Selatan"
+msgstr ""
+
+#: templates/countries/states/ID.php:38
+msgid "Gorontalo"
+msgstr ""
+
+#: templates/countries/states/ID.php:39
+msgid "Maluku"
+msgstr ""
+
+#: templates/countries/states/ID.php:40
+msgid "Maluku Utara"
+msgstr ""
+
+#: templates/countries/states/ID.php:41
+msgid "Papua"
+msgstr ""
+
+#: templates/countries/states/ID.php:42
+msgid "Papua Barat"
+msgstr ""
+
+#: templates/countries/states/IN.php:9
+msgid "Andhra Pradesh"
+msgstr ""
+
+#: templates/countries/states/IN.php:10
+msgid "Arunachal Pradesh"
+msgstr ""
+
+#: templates/countries/states/IN.php:11
+msgid "Assam"
+msgstr ""
+
+#: templates/countries/states/IN.php:12
+msgid "Bihar"
+msgstr ""
+
+#: templates/countries/states/IN.php:13
+msgid "Chhattisgarh"
+msgstr ""
+
+#: templates/countries/states/IN.php:14
+msgid "Goa"
+msgstr ""
+
+#: templates/countries/states/IN.php:15
+msgid "Gujarat"
+msgstr ""
+
+#: templates/countries/states/IN.php:16
+msgid "Haryana"
+msgstr ""
+
+#: templates/countries/states/IN.php:17
+msgid "Himachal Pradesh"
+msgstr ""
+
+#: templates/countries/states/IN.php:18
+msgid "Jammu and Kashmir"
+msgstr ""
+
+#: templates/countries/states/IN.php:19
+msgid "Jharkhand"
+msgstr ""
+
+#: templates/countries/states/IN.php:20
+msgid "Karnataka"
+msgstr ""
+
+#: templates/countries/states/IN.php:21
+msgid "Kerala"
+msgstr ""
+
+#: templates/countries/states/IN.php:22
+msgid "Madhya Pradesh"
+msgstr ""
+
+#: templates/countries/states/IN.php:23
+msgid "Maharashtra"
+msgstr ""
+
+#: templates/countries/states/IN.php:24
+msgid "Manipur"
+msgstr ""
+
+#: templates/countries/states/IN.php:25
+msgid "Meghalaya"
+msgstr ""
+
+#: templates/countries/states/IN.php:26
+msgid "Mizoram"
+msgstr ""
+
+#: templates/countries/states/IN.php:27
+msgid "Nagaland"
+msgstr ""
+
+#: templates/countries/states/IN.php:28
+msgid "Orissa"
+msgstr ""
+
+#: templates/countries/states/IN.php:29
+msgid "Punjab"
+msgstr ""
+
+#: templates/countries/states/IN.php:30
+msgid "Rajasthan"
+msgstr ""
+
+#: templates/countries/states/IN.php:31
+msgid "Sikkim"
+msgstr ""
+
+#: templates/countries/states/IN.php:32
+msgid "Tamil Nadu"
+msgstr ""
+
+#: templates/countries/states/IN.php:33
+msgid "Telangana"
+msgstr ""
+
+#: templates/countries/states/IN.php:34
+msgid "Tripura"
+msgstr ""
+
+#: templates/countries/states/IN.php:35
+msgid "Uttarakhand"
+msgstr ""
+
+#: templates/countries/states/IN.php:36
+msgid "Uttar Pradesh"
+msgstr ""
+
+#: templates/countries/states/IN.php:37
+msgid "West Bengal"
+msgstr ""
+
+#: templates/countries/states/IN.php:38
+msgid "Andaman and Nicobar Islands"
+msgstr ""
+
+#: templates/countries/states/IN.php:39
+msgid "Chandigarh"
+msgstr ""
+
+#: templates/countries/states/IN.php:40
+msgid "Dadar and Nagar Haveli"
+msgstr ""
+
+#: templates/countries/states/IN.php:41
+msgid "Daman and Diu"
+msgstr ""
+
+#: templates/countries/states/IN.php:42
+msgid "Delhi"
+msgstr ""
+
+#: templates/countries/states/IN.php:43
+msgid "Lakshadeep"
+msgstr ""
+
+#: templates/countries/states/IN.php:44
+msgid "Pondicherry (Puducherry)"
+msgstr ""
+
+#: templates/countries/states/IR.php:9
+msgid "Khuzestan  (خوزستان)"
+msgstr ""
+
+#: templates/countries/states/IR.php:10
+msgid "Tehran  (تهران)"
+msgstr ""
+
+#: templates/countries/states/IR.php:11
+msgid "Ilaam (ایلام)"
+msgstr ""
+
+#: templates/countries/states/IR.php:12
+msgid "Bushehr (بوشهر)"
+msgstr ""
+
+#: templates/countries/states/IR.php:13
+msgid "Ardabil (اردبیل)"
+msgstr ""
+
+#: templates/countries/states/IR.php:14
+msgid "Isfahan (اصفهان)"
+msgstr ""
+
+#: templates/countries/states/IR.php:15
+msgid "Yazd (یزد)"
+msgstr ""
+
+#: templates/countries/states/IR.php:16
+msgid "Kermanshah (کرمانشاه)"
+msgstr ""
+
+#: templates/countries/states/IR.php:17
+msgid "Kerman (کرمان)"
+msgstr ""
+
+#: templates/countries/states/IR.php:18
+msgid "Hamadan (همدان)"
+msgstr ""
+
+#: templates/countries/states/IR.php:19
+msgid "Ghazvin (قزوین)"
+msgstr ""
+
+#: templates/countries/states/IR.php:20
+msgid "Zanjan (زنجان)"
+msgstr ""
+
+#: templates/countries/states/IR.php:21
+msgid "Luristan (لرستان)"
+msgstr ""
+
+#: templates/countries/states/IR.php:22
+msgid "Alborz (البرز)"
+msgstr ""
+
+#: templates/countries/states/IR.php:23
+msgid "East Azarbaijan (آذربایجان شرقی)"
+msgstr ""
+
+#: templates/countries/states/IR.php:24
+msgid "West Azarbaijan (آذربایجان غربی)"
+msgstr ""
+
+#: templates/countries/states/IR.php:25
+msgid "Chaharmahal and Bakhtiari (چهارمحال و بختیاری)"
+msgstr ""
+
+#: templates/countries/states/IR.php:26
+msgid "South Khorasan (خراسان جنوبی)"
+msgstr ""
+
+#: templates/countries/states/IR.php:27
+msgid "Razavi Khorasan (خراسان رضوی)"
+msgstr ""
+
+#: templates/countries/states/IR.php:28
+msgid "North Khorasan (خراسان جنوبی)"
+msgstr ""
+
+#: templates/countries/states/IR.php:29
+msgid "Semnan (سمنان)"
+msgstr ""
+
+#: templates/countries/states/IR.php:30
+msgid "Fars (فارس)"
+msgstr ""
+
+#: templates/countries/states/IR.php:31
+msgid "Qom (قم)"
+msgstr ""
+
+#: templates/countries/states/IR.php:32
+msgid "Kurdistan / کردستان)"
+msgstr ""
+
+#: templates/countries/states/IR.php:33
+msgid "Kohgiluyeh and BoyerAhmad (کهگیلوییه و بویراحمد)"
+msgstr ""
+
+#: templates/countries/states/IR.php:34
+msgid "Golestan (گلستان)"
+msgstr ""
+
+#: templates/countries/states/IR.php:35
+msgid "Gilan (گیلان)"
+msgstr ""
+
+#: templates/countries/states/IR.php:36
+msgid "Mazandaran (مازندران)"
+msgstr ""
+
+#: templates/countries/states/IR.php:37
+msgid "Markazi (مرکزی)"
+msgstr ""
+
+#: templates/countries/states/IR.php:38
+msgid "Hormozgan (هرمزگان)"
+msgstr ""
+
+#: templates/countries/states/IR.php:39
+msgid "Sistan and Baluchestan (سیستان و بلوچستان)"
+msgstr ""
+
+#: templates/countries/states/IT.php:9
+msgid "Agrigento"
+msgstr ""
+
+#: templates/countries/states/IT.php:10
+msgid "Alessandria"
+msgstr ""
+
+#: templates/countries/states/IT.php:11
+msgid "Ancona"
+msgstr ""
+
+#: templates/countries/states/IT.php:12
+msgid "Aosta"
+msgstr ""
+
+#: templates/countries/states/IT.php:13
+msgid "Arezzo"
+msgstr ""
+
+#: templates/countries/states/IT.php:14
+msgid "Ascoli Piceno"
+msgstr ""
+
+#: templates/countries/states/IT.php:15
+msgid "Asti"
+msgstr ""
+
+#: templates/countries/states/IT.php:16
+msgid "Avellino"
+msgstr ""
+
+#: templates/countries/states/IT.php:17
+msgid "Bari"
+msgstr ""
+
+#: templates/countries/states/IT.php:18
+msgid "Barletta-Andria-Trani"
+msgstr ""
+
+#: templates/countries/states/IT.php:19
+msgid "Belluno"
+msgstr ""
+
+#: templates/countries/states/IT.php:20
+msgid "Benevento"
+msgstr ""
+
+#: templates/countries/states/IT.php:21
+msgid "Bergamo"
+msgstr ""
+
+#: templates/countries/states/IT.php:22
+msgid "Biella"
+msgstr ""
+
+#: templates/countries/states/IT.php:23
+msgid "Bologna"
+msgstr ""
+
+#: templates/countries/states/IT.php:24
+msgid "Bolzano"
+msgstr ""
+
+#: templates/countries/states/IT.php:25
+msgid "Brescia"
+msgstr ""
+
+#: templates/countries/states/IT.php:26
+msgid "Brindisi"
+msgstr ""
+
+#: templates/countries/states/IT.php:27
+msgid "Cagliari"
+msgstr ""
+
+#: templates/countries/states/IT.php:28
+msgid "Caltanissetta"
+msgstr ""
+
+#: templates/countries/states/IT.php:29
+msgid "Campobasso"
+msgstr ""
+
+#: templates/countries/states/IT.php:30
+msgid "Carbonia-Iglesias"
+msgstr ""
+
+#: templates/countries/states/IT.php:31
+msgid "Caserta"
+msgstr ""
+
+#: templates/countries/states/IT.php:32
+msgid "Catania"
+msgstr ""
+
+#: templates/countries/states/IT.php:33
+msgid "Catanzaro"
+msgstr ""
+
+#: templates/countries/states/IT.php:34
+msgid "Chieti"
+msgstr ""
+
+#: templates/countries/states/IT.php:35
+msgid "Como"
+msgstr ""
+
+#: templates/countries/states/IT.php:36
+msgid "Cosenza"
+msgstr ""
+
+#: templates/countries/states/IT.php:37
+msgid "Cremona"
+msgstr ""
+
+#: templates/countries/states/IT.php:38
+msgid "Crotone"
+msgstr ""
+
+#: templates/countries/states/IT.php:39
+msgid "Cuneo"
+msgstr ""
+
+#: templates/countries/states/IT.php:40
+msgid "Enna"
+msgstr ""
+
+#: templates/countries/states/IT.php:41
+msgid "Fermo"
+msgstr ""
+
+#: templates/countries/states/IT.php:42
+msgid "Ferrara"
+msgstr ""
+
+#: templates/countries/states/IT.php:43
+msgid "Firenze"
+msgstr ""
+
+#: templates/countries/states/IT.php:44
+msgid "Foggia"
+msgstr ""
+
+#: templates/countries/states/IT.php:45
+msgid "Forlì-Cesena"
+msgstr ""
+
+#: templates/countries/states/IT.php:46
+msgid "Frosinone"
+msgstr ""
+
+#: templates/countries/states/IT.php:47
+msgid "Genova"
+msgstr ""
+
+#: templates/countries/states/IT.php:48
+msgid "Gorizia"
+msgstr ""
+
+#: templates/countries/states/IT.php:49
+msgid "Grosseto"
+msgstr ""
+
+#: templates/countries/states/IT.php:50
+msgid "Imperia"
+msgstr ""
+
+#: templates/countries/states/IT.php:51
+msgid "Isernia"
+msgstr ""
+
+#: templates/countries/states/IT.php:52
+msgid "La Spezia"
+msgstr ""
+
+#: templates/countries/states/IT.php:53
+msgid "L&apos;Aquila"
+msgstr ""
+
+#: templates/countries/states/IT.php:54
+msgid "Latina"
+msgstr ""
+
+#: templates/countries/states/IT.php:55
+msgid "Lecce"
+msgstr ""
+
+#: templates/countries/states/IT.php:56
+msgid "Lecco"
+msgstr ""
+
+#: templates/countries/states/IT.php:57
+msgid "Livorno"
+msgstr ""
+
+#: templates/countries/states/IT.php:58
+msgid "Lodi"
+msgstr ""
+
+#: templates/countries/states/IT.php:59
+msgid "Lucca"
+msgstr ""
+
+#: templates/countries/states/IT.php:60
+msgid "Macerata"
+msgstr ""
+
+#: templates/countries/states/IT.php:61
+msgid "Mantova"
+msgstr ""
+
+#: templates/countries/states/IT.php:62
+msgid "Massa-Carrara"
+msgstr ""
+
+#: templates/countries/states/IT.php:63
+msgid "Matera"
+msgstr ""
+
+#: templates/countries/states/IT.php:64
+msgid "Messina"
+msgstr ""
+
+#: templates/countries/states/IT.php:65
+msgid "Milano"
+msgstr ""
+
+#: templates/countries/states/IT.php:66
+msgid "Modena"
+msgstr ""
+
+#: templates/countries/states/IT.php:67
+msgid "Monza e della Brianza"
+msgstr ""
+
+#: templates/countries/states/IT.php:68
+msgid "Napoli"
+msgstr ""
+
+#: templates/countries/states/IT.php:69
+msgid "Novara"
+msgstr ""
+
+#: templates/countries/states/IT.php:70
+msgid "Nuoro"
+msgstr ""
+
+#: templates/countries/states/IT.php:71
+msgid "Olbia-Tempio"
+msgstr ""
+
+#: templates/countries/states/IT.php:72
+msgid "Oristano"
+msgstr ""
+
+#: templates/countries/states/IT.php:73
+msgid "Padova"
+msgstr ""
+
+#: templates/countries/states/IT.php:74
+msgid "Palermo"
+msgstr ""
+
+#: templates/countries/states/IT.php:75
+msgid "Parma"
+msgstr ""
+
+#: templates/countries/states/IT.php:76
+msgid "Pavia"
+msgstr ""
+
+#: templates/countries/states/IT.php:77
+msgid "Perugia"
+msgstr ""
+
+#: templates/countries/states/IT.php:78
+msgid "Pesaro e Urbino"
+msgstr ""
+
+#: templates/countries/states/IT.php:79
+msgid "Pescara"
+msgstr ""
+
+#: templates/countries/states/IT.php:80
+msgid "Piacenza"
+msgstr ""
+
+#: templates/countries/states/IT.php:81
+msgid "Pisa"
+msgstr ""
+
+#: templates/countries/states/IT.php:82
+msgid "Pistoia"
+msgstr ""
+
+#: templates/countries/states/IT.php:83
+msgid "Pordenone"
+msgstr ""
+
+#: templates/countries/states/IT.php:84
+msgid "Potenza"
+msgstr ""
+
+#: templates/countries/states/IT.php:85
+msgid "Prato"
+msgstr ""
+
+#: templates/countries/states/IT.php:86
+msgid "Ragusa"
+msgstr ""
+
+#: templates/countries/states/IT.php:87
+msgid "Ravenna"
+msgstr ""
+
+#: templates/countries/states/IT.php:88
+msgid "Reggio Calabria"
+msgstr ""
+
+#: templates/countries/states/IT.php:89
+msgid "Reggio Emilia"
+msgstr ""
+
+#: templates/countries/states/IT.php:90
+msgid "Rieti"
+msgstr ""
+
+#: templates/countries/states/IT.php:91
+msgid "Rimini"
+msgstr ""
+
+#: templates/countries/states/IT.php:92
+msgid "Roma"
+msgstr ""
+
+#: templates/countries/states/IT.php:93
+msgid "Rovigo"
+msgstr ""
+
+#: templates/countries/states/IT.php:94
+msgid "Salerno"
+msgstr ""
+
+#: templates/countries/states/IT.php:95
+msgid "Medio Campidano"
+msgstr ""
+
+#: templates/countries/states/IT.php:96
+msgid "Sassari"
+msgstr ""
+
+#: templates/countries/states/IT.php:97
+msgid "Savona"
+msgstr ""
+
+#: templates/countries/states/IT.php:98
+msgid "Siena"
+msgstr ""
+
+#: templates/countries/states/IT.php:99
+msgid "Siracusa"
+msgstr ""
+
+#: templates/countries/states/IT.php:100
+msgid "Sondrio"
+msgstr ""
+
+#: templates/countries/states/IT.php:101
+msgid "Taranto"
+msgstr ""
+
+#: templates/countries/states/IT.php:102
+msgid "Teramo"
+msgstr ""
+
+#: templates/countries/states/IT.php:103
+msgid "Terni"
+msgstr ""
+
+#: templates/countries/states/IT.php:104
+msgid "Torino"
+msgstr ""
+
+#: templates/countries/states/IT.php:105
+msgid "Ogliastra"
+msgstr ""
+
+#: templates/countries/states/IT.php:106
+msgid "Trapani"
+msgstr ""
+
+#: templates/countries/states/IT.php:107
+msgid "Trento"
+msgstr ""
+
+#: templates/countries/states/IT.php:108
+msgid "Treviso"
+msgstr ""
+
+#: templates/countries/states/IT.php:109
+msgid "Trieste"
+msgstr ""
+
+#: templates/countries/states/IT.php:110
+msgid "Udine"
+msgstr ""
+
+#: templates/countries/states/IT.php:111
+msgid "Varese"
+msgstr ""
+
+#: templates/countries/states/IT.php:112
+msgid "Venezia"
+msgstr ""
+
+#: templates/countries/states/IT.php:113
+msgid "Verbano-Cusio-Ossola"
+msgstr ""
+
+#: templates/countries/states/IT.php:114
+msgid "Vercelli"
+msgstr ""
+
+#: templates/countries/states/IT.php:115
+msgid "Verona"
+msgstr ""
+
+#: templates/countries/states/IT.php:116
+msgid "Vibo Valentia"
+msgstr ""
+
+#: templates/countries/states/IT.php:117
+msgid "Vicenza"
+msgstr ""
+
+#: templates/countries/states/IT.php:118
+msgid "Viterbo"
+msgstr ""
+
+#: templates/countries/states/JP.php:9
+msgid "Hokkaido"
+msgstr ""
+
+#: templates/countries/states/JP.php:10
+msgid "Aomori"
+msgstr ""
+
+#: templates/countries/states/JP.php:11
+msgid "Iwate"
+msgstr ""
+
+#: templates/countries/states/JP.php:12
+msgid "Miyagi"
+msgstr ""
+
+#: templates/countries/states/JP.php:13
+msgid "Akita"
+msgstr ""
+
+#: templates/countries/states/JP.php:14
+msgid "Yamagata"
+msgstr ""
+
+#: templates/countries/states/JP.php:15
+msgid "Fukushima"
+msgstr ""
+
+#: templates/countries/states/JP.php:16
+msgid "Ibaraki"
+msgstr ""
+
+#: templates/countries/states/JP.php:17
+msgid "Tochigi"
+msgstr ""
+
+#: templates/countries/states/JP.php:18
+msgid "Gunma"
+msgstr ""
+
+#: templates/countries/states/JP.php:19
+msgid "Saitama"
+msgstr ""
+
+#: templates/countries/states/JP.php:20
+msgid "Chiba"
+msgstr ""
+
+#: templates/countries/states/JP.php:21
+msgid "Tokyo"
+msgstr ""
+
+#: templates/countries/states/JP.php:22
+msgid "Kanagawa"
+msgstr ""
+
+#: templates/countries/states/JP.php:23
+msgid "Niigata"
+msgstr ""
+
+#: templates/countries/states/JP.php:24
+msgid "Toyama"
+msgstr ""
+
+#: templates/countries/states/JP.php:25
+msgid "Ishikawa"
+msgstr ""
+
+#: templates/countries/states/JP.php:26
+msgid "Fukui"
+msgstr ""
+
+#: templates/countries/states/JP.php:27
+msgid "Yamanashi"
+msgstr ""
+
+#: templates/countries/states/JP.php:28
+msgid "Nagano"
+msgstr ""
+
+#: templates/countries/states/JP.php:29
+msgid "Gifu"
+msgstr ""
+
+#: templates/countries/states/JP.php:30
+msgid "Shizuoka"
+msgstr ""
+
+#: templates/countries/states/JP.php:31
+msgid "Aichi"
+msgstr ""
+
+#: templates/countries/states/JP.php:32
+msgid "Mie"
+msgstr ""
+
+#: templates/countries/states/JP.php:33
+msgid "Shiga"
+msgstr ""
+
+#: templates/countries/states/JP.php:34
+msgid "Kyoto"
+msgstr ""
+
+#: templates/countries/states/JP.php:35
+msgid "Osaka"
+msgstr ""
+
+#: templates/countries/states/JP.php:36
+msgid "Hyogo"
+msgstr ""
+
+#: templates/countries/states/JP.php:37
+msgid "Nara"
+msgstr ""
+
+#: templates/countries/states/JP.php:38
+msgid "Wakayama"
+msgstr ""
+
+#: templates/countries/states/JP.php:39
+msgid "Tottori"
+msgstr ""
+
+#: templates/countries/states/JP.php:40
+msgid "Shimane"
+msgstr ""
+
+#: templates/countries/states/JP.php:41
+msgid "Okayama"
+msgstr ""
+
+#: templates/countries/states/JP.php:42
+msgid "Hiroshima"
+msgstr ""
+
+#: templates/countries/states/JP.php:43
+msgid "Yamaguchi"
+msgstr ""
+
+#: templates/countries/states/JP.php:44
+msgid "Tokushima"
+msgstr ""
+
+#: templates/countries/states/JP.php:45
+msgid "Kagawa"
+msgstr ""
+
+#: templates/countries/states/JP.php:46
+msgid "Ehime"
+msgstr ""
+
+#: templates/countries/states/JP.php:47
+msgid "Kochi"
+msgstr ""
+
+#: templates/countries/states/JP.php:48
+msgid "Fukuoka"
+msgstr ""
+
+#: templates/countries/states/JP.php:49
+msgid "Saga"
+msgstr ""
+
+#: templates/countries/states/JP.php:50
+msgid "Nagasaki"
+msgstr ""
+
+#: templates/countries/states/JP.php:51
+msgid "Kumamoto"
+msgstr ""
+
+#: templates/countries/states/JP.php:52
+msgid "Oita"
+msgstr ""
+
+#: templates/countries/states/JP.php:53
+msgid "Miyazaki"
+msgstr ""
+
+#: templates/countries/states/JP.php:54
+msgid "Kagoshima"
+msgstr ""
+
+#: templates/countries/states/JP.php:55
+msgid "Okinawa"
+msgstr ""
+
+#: templates/countries/states/MX.php:10
+msgid "Jalisco"
+msgstr ""
+
+#: templates/countries/states/MX.php:11
+msgid "Nuevo León"
+msgstr ""
+
+#: templates/countries/states/MX.php:12
+msgid "Aguascalientes"
+msgstr ""
+
+#: templates/countries/states/MX.php:13
+msgid "Baja California"
+msgstr ""
+
+#: templates/countries/states/MX.php:14
+msgid "Baja California Sur"
+msgstr ""
+
+#: templates/countries/states/MX.php:15
+msgid "Campeche"
+msgstr ""
+
+#: templates/countries/states/MX.php:16
+msgid "Chiapas"
+msgstr ""
+
+#: templates/countries/states/MX.php:17
+msgid "Chihuahua"
+msgstr ""
+
+#: templates/countries/states/MX.php:18
+msgid "Coahuila"
+msgstr ""
+
+#: templates/countries/states/MX.php:19
+msgid "Colima"
+msgstr ""
+
+#: templates/countries/states/MX.php:20
+msgid "Durango"
+msgstr ""
+
+#: templates/countries/states/MX.php:21
+msgid "Guanajuato"
+msgstr ""
+
+#: templates/countries/states/MX.php:22
+msgid "Guerrero"
+msgstr ""
+
+#: templates/countries/states/MX.php:23
+msgid "Hidalgo"
+msgstr ""
+
+#: templates/countries/states/MX.php:24
+msgid "Edo. de México"
+msgstr ""
+
+#: templates/countries/states/MX.php:25
+msgid "Michoacán"
+msgstr ""
+
+#: templates/countries/states/MX.php:26
+msgid "Morelos"
+msgstr ""
+
+#: templates/countries/states/MX.php:27
+msgid "Nayarit"
+msgstr ""
+
+#: templates/countries/states/MX.php:28
+msgid "Oaxaca"
+msgstr ""
+
+#: templates/countries/states/MX.php:29
+msgid "Puebla"
+msgstr ""
+
+#: templates/countries/states/MX.php:30
+msgid "Querétaro"
+msgstr ""
+
+#: templates/countries/states/MX.php:31
+msgid "Quintana Roo"
+msgstr ""
+
+#: templates/countries/states/MX.php:32
+msgid "San Luis Potosí"
+msgstr ""
+
+#: templates/countries/states/MX.php:33
+msgid "Sinaloa"
+msgstr ""
+
+#: templates/countries/states/MX.php:34
+msgid "Sonora"
+msgstr ""
+
+#: templates/countries/states/MX.php:35
+msgid "Tabasco"
+msgstr ""
+
+#: templates/countries/states/MX.php:36
+msgid "Tamaulipas"
+msgstr ""
+
+#: templates/countries/states/MX.php:37
+msgid "Tlaxcala"
+msgstr ""
+
+#: templates/countries/states/MX.php:38
+msgid "Veracruz"
+msgstr ""
+
+#: templates/countries/states/MX.php:39
+msgid "Yucatán"
+msgstr ""
+
+#: templates/countries/states/MX.php:40
+msgid "Zacatecas"
+msgstr ""
+
+#: templates/countries/states/MY.php:9
+msgid "Johor"
+msgstr ""
+
+#: templates/countries/states/MY.php:10
+msgid "Kedah"
+msgstr ""
+
+#: templates/countries/states/MY.php:11
+msgid "Kelantan"
+msgstr ""
+
+#: templates/countries/states/MY.php:12
+msgid "Melaka"
+msgstr ""
+
+#: templates/countries/states/MY.php:13
+msgid "Negeri Sembilan"
+msgstr ""
+
+#: templates/countries/states/MY.php:14
+msgid "Pahang"
+msgstr ""
+
+#: templates/countries/states/MY.php:15
+msgid "Perak"
+msgstr ""
+
+#: templates/countries/states/MY.php:16
+msgid "Perlis"
+msgstr ""
+
+#: templates/countries/states/MY.php:17
+msgid "Pulau Pinang"
+msgstr ""
+
+#: templates/countries/states/MY.php:18
+msgid "Sabah"
+msgstr ""
+
+#: templates/countries/states/MY.php:19
+msgid "Sarawak"
+msgstr ""
+
+#: templates/countries/states/MY.php:20
+msgid "Selangor"
+msgstr ""
+
+#: templates/countries/states/MY.php:21
+msgid "Terengganu"
+msgstr ""
+
+#: templates/countries/states/MY.php:22
+msgid "W.P. Kuala Lumpur"
+msgstr ""
+
+#: templates/countries/states/MY.php:23
+msgid "W.P. Labuan"
+msgstr ""
+
+#: templates/countries/states/MY.php:24
+msgid "W.P. Putrajaya"
+msgstr ""
+
+#: templates/countries/states/NP.php:11
+msgid "Illam"
+msgstr ""
+
+#: templates/countries/states/NP.php:12
+msgid "Jhapa"
+msgstr ""
+
+#: templates/countries/states/NP.php:13
+msgid "Panchthar"
+msgstr ""
+
+#: templates/countries/states/NP.php:14
+msgid "Taplejung"
+msgstr ""
+
+#: templates/countries/states/NP.php:17
+msgid "Bhojpur"
+msgstr ""
+
+#: templates/countries/states/NP.php:18
+msgid "Dhankuta"
+msgstr ""
+
+#: templates/countries/states/NP.php:19
+msgid "Morang"
+msgstr ""
+
+#: templates/countries/states/NP.php:20
+msgid "Sunsari"
+msgstr ""
+
+#: templates/countries/states/NP.php:21
+msgid "Sankhuwa"
+msgstr ""
+
+#: templates/countries/states/NP.php:22
+msgid "Terhathum"
+msgstr ""
+
+#: templates/countries/states/NP.php:25
+msgid "Khotang"
+msgstr ""
+
+#: templates/countries/states/NP.php:26
+msgid "Okhaldhunga"
+msgstr ""
+
+#: templates/countries/states/NP.php:27
+msgid "Saptari"
+msgstr ""
+
+#: templates/countries/states/NP.php:28
+msgid "Siraha"
+msgstr ""
+
+#: templates/countries/states/NP.php:29
+msgid "Solukhumbu"
+msgstr ""
+
+#: templates/countries/states/NP.php:30
+msgid "Udayapur"
+msgstr ""
+
+#: templates/countries/states/NP.php:33
+msgid "Dhanusa"
+msgstr ""
+
+#: templates/countries/states/NP.php:34
+msgid "Dolakha"
+msgstr ""
+
+#: templates/countries/states/NP.php:35
+msgid "Mohottari"
+msgstr ""
+
+#: templates/countries/states/NP.php:36
+msgid "Ramechha"
+msgstr ""
+
+#: templates/countries/states/NP.php:37
+msgid "Sarlahi"
+msgstr ""
+
+#: templates/countries/states/NP.php:38
+msgid "Sindhuli"
+msgstr ""
+
+#: templates/countries/states/NP.php:41
+msgid "Bhaktapur"
+msgstr ""
+
+#: templates/countries/states/NP.php:42
+msgid "Dhading"
+msgstr ""
+
+#: templates/countries/states/NP.php:43
+msgid "Kathmandu"
+msgstr ""
+
+#: templates/countries/states/NP.php:44
+msgid "Kavrepalanchowk"
+msgstr ""
+
+#: templates/countries/states/NP.php:45
+msgid "Lalitpur"
+msgstr ""
+
+#: templates/countries/states/NP.php:46
+msgid "Nuwakot"
+msgstr ""
+
+#: templates/countries/states/NP.php:47
+msgid "Rasuwa"
+msgstr ""
+
+#: templates/countries/states/NP.php:48
+msgid "Sindhupalchowk"
+msgstr ""
+
+#: templates/countries/states/NP.php:51
+msgid "Bara"
+msgstr ""
+
+#: templates/countries/states/NP.php:52
+msgid "Chitwan"
+msgstr ""
+
+#: templates/countries/states/NP.php:53
+msgid "Makwanpur"
+msgstr ""
+
+#: templates/countries/states/NP.php:54
+msgid "Parsa"
+msgstr ""
+
+#: templates/countries/states/NP.php:55
+msgid "Rautahat"
+msgstr ""
+
+#: templates/countries/states/NP.php:58
+msgid "Gorkha"
+msgstr ""
+
+#: templates/countries/states/NP.php:59
+msgid "Kaski"
+msgstr ""
+
+#: templates/countries/states/NP.php:60
+msgid "Lamjung"
+msgstr ""
+
+#: templates/countries/states/NP.php:61
+msgid "Manang"
+msgstr ""
+
+#: templates/countries/states/NP.php:62
+msgid "Syangja"
+msgstr ""
+
+#: templates/countries/states/NP.php:63
+msgid "Tanahun"
+msgstr ""
+
+#: templates/countries/states/NP.php:66
+msgid "Baglung"
+msgstr ""
+
+#: templates/countries/states/NP.php:67
+msgid "Parbat"
+msgstr ""
+
+#: templates/countries/states/NP.php:68
+msgid "Mustang"
+msgstr ""
+
+#: templates/countries/states/NP.php:69
+msgid "Myagdi"
+msgstr ""
+
+#: templates/countries/states/NP.php:72
+msgid "Agrghakanchi"
+msgstr ""
+
+#: templates/countries/states/NP.php:73
+msgid "Gulmi"
+msgstr ""
+
+#: templates/countries/states/NP.php:74
+msgid "Kapilbastu"
+msgstr ""
+
+#: templates/countries/states/NP.php:75
+msgid "Nawalparasi"
+msgstr ""
+
+#: templates/countries/states/NP.php:76
+msgid "Palpa"
+msgstr ""
+
+#: templates/countries/states/NP.php:77
+msgid "Rupandehi"
+msgstr ""
+
+#: templates/countries/states/NP.php:80
+msgid "Dang"
+msgstr ""
+
+#: templates/countries/states/NP.php:81
+msgid "Pyuthan"
+msgstr ""
+
+#: templates/countries/states/NP.php:82
+msgid "Rolpa"
+msgstr ""
+
+#: templates/countries/states/NP.php:83
+msgid "Rukum"
+msgstr ""
+
+#: templates/countries/states/NP.php:84
+msgid "Salyan"
+msgstr ""
+
+#: templates/countries/states/NP.php:87
+msgid "Banke"
+msgstr ""
+
+#: templates/countries/states/NP.php:88
+msgid "Bardiya"
+msgstr ""
+
+#: templates/countries/states/NP.php:89
+msgid "Dailekh"
+msgstr ""
+
+#: templates/countries/states/NP.php:90
+msgid "Jajarkot"
+msgstr ""
+
+#: templates/countries/states/NP.php:91
+msgid "Surkhet"
+msgstr ""
+
+#: templates/countries/states/NP.php:94
+msgid "Dolpa"
+msgstr ""
+
+#: templates/countries/states/NP.php:95
+msgid "Humla"
+msgstr ""
+
+#: templates/countries/states/NP.php:96
+msgid "Jumla"
+msgstr ""
+
+#: templates/countries/states/NP.php:97
+msgid "Kalikot"
+msgstr ""
+
+#: templates/countries/states/NP.php:98
+msgid "Mugu"
+msgstr ""
+
+#: templates/countries/states/NP.php:101
+msgid "Achham"
+msgstr ""
+
+#: templates/countries/states/NP.php:102
+msgid "Bajhang"
+msgstr ""
+
+#: templates/countries/states/NP.php:103
+msgid "Bajura"
+msgstr ""
+
+#: templates/countries/states/NP.php:104
+msgid "Doti"
+msgstr ""
+
+#: templates/countries/states/NP.php:105
+msgid "Kailali"
+msgstr ""
+
+#: templates/countries/states/NP.php:108
+msgid "Baitadi"
+msgstr ""
+
+#: templates/countries/states/NP.php:109
+msgid "Dadeldhura"
+msgstr ""
+
+#: templates/countries/states/NP.php:110
+msgid "Darchula"
+msgstr ""
+
+#: templates/countries/states/NP.php:111
+msgid "Kanchanpur"
+msgstr ""
+
+#: templates/countries/states/NZ.php:9
+msgid "Northland"
+msgstr ""
+
+#: templates/countries/states/NZ.php:10
+msgid "Auckland"
+msgstr ""
+
+#: templates/countries/states/NZ.php:11
+msgid "Waikato"
+msgstr ""
+
+#: templates/countries/states/NZ.php:12
+msgid "Bay of Plenty"
+msgstr ""
+
+#: templates/countries/states/NZ.php:13
+msgid "Taranaki"
+msgstr ""
+
+#: templates/countries/states/NZ.php:14
+msgid "Gisborne"
+msgstr ""
+
+#: templates/countries/states/NZ.php:15
+msgid "Hawke&rsquo;s Bay"
+msgstr ""
+
+#: templates/countries/states/NZ.php:16
+msgid "Manawatu-Wanganui"
+msgstr ""
+
+#: templates/countries/states/NZ.php:17
+msgid "Wellington"
+msgstr ""
+
+#: templates/countries/states/NZ.php:18
+msgid "Nelson"
+msgstr ""
+
+#: templates/countries/states/NZ.php:19
+msgid "Marlborough"
+msgstr ""
+
+#: templates/countries/states/NZ.php:20
+msgid "Tasman"
+msgstr ""
+
+#: templates/countries/states/NZ.php:21
+msgid "West Coast"
+msgstr ""
+
+#: templates/countries/states/NZ.php:22
+msgid "Canterbury"
+msgstr ""
+
+#: templates/countries/states/NZ.php:23
+msgid "Otago"
+msgstr ""
+
+#: templates/countries/states/NZ.php:24
+msgid "Southland"
+msgstr ""
+
+#: templates/countries/states/PE.php:9
+msgid "El Callao"
+msgstr ""
+
+#: templates/countries/states/PE.php:10
+msgid "Municipalidad Metropolitana de Lima"
+msgstr ""
+
+#: templates/countries/states/PE.php:12
+msgid "Ancash"
+msgstr ""
+
+#: templates/countries/states/PE.php:13
+msgid "Apur&iacute;mac"
+msgstr ""
+
+#: templates/countries/states/PE.php:14
+msgid "Arequipa"
+msgstr ""
+
+#: templates/countries/states/PE.php:15
+msgid "Ayacucho"
+msgstr ""
+
+#: templates/countries/states/PE.php:16
+msgid "Cajamarca"
+msgstr ""
+
+#: templates/countries/states/PE.php:17
+msgid "Cusco"
+msgstr ""
+
+#: templates/countries/states/PE.php:18
+msgid "Huancavelica"
+msgstr ""
+
+#: templates/countries/states/PE.php:19
+msgid "Hu&aacute;nuco"
+msgstr ""
+
+#: templates/countries/states/PE.php:20
+msgid "Ica"
+msgstr ""
+
+#: templates/countries/states/PE.php:21
+msgid "Jun&iacute;n"
+msgstr ""
+
+#: templates/countries/states/PE.php:22
+msgid "La Libertad"
+msgstr ""
+
+#: templates/countries/states/PE.php:23
+msgid "Lambayeque"
+msgstr ""
+
+#: templates/countries/states/PE.php:24
+msgid "Lima"
+msgstr ""
+
+#: templates/countries/states/PE.php:25
+msgid "Loreto"
+msgstr ""
+
+#: templates/countries/states/PE.php:26
+msgid "Madre de Dios"
+msgstr ""
+
+#: templates/countries/states/PE.php:27
+msgid "Moquegua"
+msgstr ""
+
+#: templates/countries/states/PE.php:28
+msgid "Pasco"
+msgstr ""
+
+#: templates/countries/states/PE.php:29
+msgid "Piura"
+msgstr ""
+
+#: templates/countries/states/PE.php:30
+msgid "Puno"
+msgstr ""
+
+#: templates/countries/states/PE.php:31
+msgid "San Mart&iacute;n"
+msgstr ""
+
+#: templates/countries/states/PE.php:32
+msgid "Tacna"
+msgstr ""
+
+#: templates/countries/states/PE.php:33
+msgid "Tumbes"
+msgstr ""
+
+#: templates/countries/states/PE.php:34
+msgid "Ucayali"
+msgstr ""
+
+#: templates/countries/states/PH.php:8
+msgid "Abra"
+msgstr ""
+
+#: templates/countries/states/PH.php:9
+msgid "Agusan del Norte"
+msgstr ""
+
+#: templates/countries/states/PH.php:10
+msgid "Agusan del Sur"
+msgstr ""
+
+#: templates/countries/states/PH.php:11
+msgid "Aklan"
+msgstr ""
+
+#: templates/countries/states/PH.php:12
+msgid "Albay"
+msgstr ""
+
+#: templates/countries/states/PH.php:13
+msgid "Antique"
+msgstr ""
+
+#: templates/countries/states/PH.php:14
+msgid "Apayao"
+msgstr ""
+
+#: templates/countries/states/PH.php:15
+msgid "Aurora"
+msgstr ""
+
+#: templates/countries/states/PH.php:16
+msgid "Basilan"
+msgstr ""
+
+#: templates/countries/states/PH.php:17
+msgid "Bataan"
+msgstr ""
+
+#: templates/countries/states/PH.php:18
+msgid "Batanes"
+msgstr ""
+
+#: templates/countries/states/PH.php:19
+msgid "Batangas"
+msgstr ""
+
+#: templates/countries/states/PH.php:20
+msgid "Benguet"
+msgstr ""
+
+#: templates/countries/states/PH.php:21
+msgid "Biliran"
+msgstr ""
+
+#: templates/countries/states/PH.php:22
+msgid "Bohol"
+msgstr ""
+
+#: templates/countries/states/PH.php:23
+msgid "Bukidnon"
+msgstr ""
+
+#: templates/countries/states/PH.php:24
+msgid "Bulacan"
+msgstr ""
+
+#: templates/countries/states/PH.php:25
+msgid "Cagayan"
+msgstr ""
+
+#: templates/countries/states/PH.php:26
+msgid "Camarines Norte"
+msgstr ""
+
+#: templates/countries/states/PH.php:27
+msgid "Camarines Sur"
+msgstr ""
+
+#: templates/countries/states/PH.php:28
+msgid "Camiguin"
+msgstr ""
+
+#: templates/countries/states/PH.php:29
+msgid "Capiz"
+msgstr ""
+
+#: templates/countries/states/PH.php:30
+msgid "Catanduanes"
+msgstr ""
+
+#: templates/countries/states/PH.php:31
+msgid "Cavite"
+msgstr ""
+
+#: templates/countries/states/PH.php:32
+msgid "Cebu"
+msgstr ""
+
+#: templates/countries/states/PH.php:33
+msgid "Compostela Valley"
+msgstr ""
+
+#: templates/countries/states/PH.php:34
+msgid "Cotabato"
+msgstr ""
+
+#: templates/countries/states/PH.php:35
+msgid "Davao del Norte"
+msgstr ""
+
+#: templates/countries/states/PH.php:36
+msgid "Davao del Sur"
+msgstr ""
+
+#: templates/countries/states/PH.php:37
+msgid "Davao Occidental"
+msgstr ""
+
+#: templates/countries/states/PH.php:38
+msgid "Davao Oriental"
+msgstr ""
+
+#: templates/countries/states/PH.php:39
+msgid "Dinagat Islands"
+msgstr ""
+
+#: templates/countries/states/PH.php:40
+msgid "Eastern Samar"
+msgstr ""
+
+#: templates/countries/states/PH.php:41
+msgid "Guimaras"
+msgstr ""
+
+#: templates/countries/states/PH.php:42
+msgid "Ifugao"
+msgstr ""
+
+#: templates/countries/states/PH.php:43
+msgid "Ilocos Norte"
+msgstr ""
+
+#: templates/countries/states/PH.php:44
+msgid "Ilocos Sur"
+msgstr ""
+
+#: templates/countries/states/PH.php:45
+msgid "Iloilo"
+msgstr ""
+
+#: templates/countries/states/PH.php:46
+msgid "Isabela"
+msgstr ""
+
+#: templates/countries/states/PH.php:47
+msgid "Kalinga"
+msgstr ""
+
+#: templates/countries/states/PH.php:48
+msgid "La Union"
+msgstr ""
+
+#: templates/countries/states/PH.php:49
+msgid "Laguna"
+msgstr ""
+
+#: templates/countries/states/PH.php:50
+msgid "Lanao del Norte"
+msgstr ""
+
+#: templates/countries/states/PH.php:51
+msgid "Lanao del Sur"
+msgstr ""
+
+#: templates/countries/states/PH.php:52
+msgid "Leyte"
+msgstr ""
+
+#: templates/countries/states/PH.php:53
+msgid "Maguindanao"
+msgstr ""
+
+#: templates/countries/states/PH.php:54
+msgid "Marinduque"
+msgstr ""
+
+#: templates/countries/states/PH.php:55
+msgid "Masbate"
+msgstr ""
+
+#: templates/countries/states/PH.php:56
+msgid "Misamis Occidental"
+msgstr ""
+
+#: templates/countries/states/PH.php:57
+msgid "Misamis Oriental"
+msgstr ""
+
+#: templates/countries/states/PH.php:58
+msgid "Mountain Province"
+msgstr ""
+
+#: templates/countries/states/PH.php:59
+msgid "Negros Occidental"
+msgstr ""
+
+#: templates/countries/states/PH.php:60
+msgid "Negros Oriental"
+msgstr ""
+
+#: templates/countries/states/PH.php:61
+msgid "Northern Samar"
+msgstr ""
+
+#: templates/countries/states/PH.php:62
+msgid "Nueva Ecija"
+msgstr ""
+
+#: templates/countries/states/PH.php:63
+msgid "Nueva Vizcaya"
+msgstr ""
+
+#: templates/countries/states/PH.php:64
+msgid "Occidental Mindoro"
+msgstr ""
+
+#: templates/countries/states/PH.php:65
+msgid "Oriental Mindoro"
+msgstr ""
+
+#: templates/countries/states/PH.php:66
+msgid "Palawan"
+msgstr ""
+
+#: templates/countries/states/PH.php:67
+msgid "Pampanga"
+msgstr ""
+
+#: templates/countries/states/PH.php:68
+msgid "Pangasinan"
+msgstr ""
+
+#: templates/countries/states/PH.php:69
+msgid "Quezon"
+msgstr ""
+
+#: templates/countries/states/PH.php:70
+msgid "Quirino"
+msgstr ""
+
+#: templates/countries/states/PH.php:71
+msgid "Rizal"
+msgstr ""
+
+#: templates/countries/states/PH.php:72
+msgid "Romblon"
+msgstr ""
+
+#: templates/countries/states/PH.php:73
+msgid "Samar"
+msgstr ""
+
+#: templates/countries/states/PH.php:74
+msgid "Sarangani"
+msgstr ""
+
+#: templates/countries/states/PH.php:75
+msgid "Siquijor"
+msgstr ""
+
+#: templates/countries/states/PH.php:76
+msgid "Sorsogon"
+msgstr ""
+
+#: templates/countries/states/PH.php:77
+msgid "South Cotabato"
+msgstr ""
+
+#: templates/countries/states/PH.php:78
+msgid "Southern Leyte"
+msgstr ""
+
+#: templates/countries/states/PH.php:79
+msgid "Sultan Kudarat"
+msgstr ""
+
+#: templates/countries/states/PH.php:80
+msgid "Sulu"
+msgstr ""
+
+#: templates/countries/states/PH.php:81
+msgid "Surigao del Norte"
+msgstr ""
+
+#: templates/countries/states/PH.php:82
+msgid "Surigao del Sur"
+msgstr ""
+
+#: templates/countries/states/PH.php:83
+msgid "Tarlac"
+msgstr ""
+
+#: templates/countries/states/PH.php:84
+msgid "Tawi-Tawi"
+msgstr ""
+
+#: templates/countries/states/PH.php:85
+msgid "Zambales"
+msgstr ""
+
+#: templates/countries/states/PH.php:86
+msgid "Zamboanga del Norte"
+msgstr ""
+
+#: templates/countries/states/PH.php:87
+msgid "Zamboanga del Sur"
+msgstr ""
+
+#: templates/countries/states/PH.php:88
+msgid "Zamboanga Sibugay"
+msgstr ""
+
+#: templates/countries/states/PH.php:89
+msgid "Metro Manila"
+msgstr ""
+
+#: templates/countries/states/TH.php:9
+msgid ""
+"Amnat Charoen (&#3629;&#3635;&#3609;&#3634;&#3592;&#3648;&#3592;&#3619;"
+"&#3636;&#3597;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:10
+msgid "Ang Thong (&#3629;&#3656;&#3634;&#3591;&#3607;&#3629;&#3591;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:11
+msgid ""
+"Ayutthaya (&#3614;&#3619;&#3632;&#3609;&#3588;&#3619;&#3624;&#3619;&#3637;"
+"&#3629;&#3618;&#3640;&#3608;&#3618;&#3634;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:12
+msgid ""
+"Bangkok (&#3585;&#3619;&#3640;&#3591;&#3648;&#3607;&#3614;&#3617;&#3627;"
+"&#3634;&#3609;&#3588;&#3619;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:13
+msgid "Bueng Kan (&#3610;&#3638;&#3591;&#3585;&#3634;&#3628;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:14
+msgid ""
+"Buri Ram (&#3610;&#3640;&#3619;&#3637;&#3619;&#3633;&#3617;&#3618;&#3660;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:15
+msgid ""
+"Chachoengsao (&#3593;&#3632;&#3648;&#3594;&#3636;&#3591;&#3648;&#3607;&#3619;"
+"&#3634;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:16
+msgid "Chai Nat (&#3594;&#3633;&#3618;&#3609;&#3634;&#3607;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:17
+msgid "Chaiyaphum (&#3594;&#3633;&#3618;&#3616;&#3641;&#3617;&#3636;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:18
+msgid "Chanthaburi (&#3592;&#3633;&#3609;&#3607;&#3610;&#3640;&#3619;&#3637;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:19
+msgid ""
+"Chiang Mai (&#3648;&#3594;&#3637;&#3618;&#3591;&#3651;&#3627;&#3617;&#3656;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:20
+msgid "Chiang Rai (&#3648;&#3594;&#3637;&#3618;&#3591;&#3619;&#3634;&#3618;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:21
+msgid "Chonburi (&#3594;&#3621;&#3610;&#3640;&#3619;&#3637;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:22
+msgid "Chumphon (&#3594;&#3640;&#3617;&#3614;&#3619;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:23
+msgid ""
+"Kalasin (&#3585;&#3634;&#3628;&#3626;&#3636;&#3609;&#3608;&#3640;&#3660;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:24
+msgid ""
+"Kamphaeng Phet (&#3585;&#3635;&#3649;&#3614;&#3591;&#3648;&#3614;&#3594;"
+"&#3619;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:25
+msgid ""
+"Kanchanaburi (&#3585;&#3634;&#3597;&#3592;&#3609;&#3610;&#3640;&#3619;"
+"&#3637;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:26
+msgid "Khon Kaen (&#3586;&#3629;&#3609;&#3649;&#3585;&#3656;&#3609;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:27
+msgid "Krabi (&#3585;&#3619;&#3632;&#3610;&#3637;&#3656;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:28
+msgid "Lampang (&#3621;&#3635;&#3611;&#3634;&#3591;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:29
+msgid "Lamphun (&#3621;&#3635;&#3614;&#3641;&#3609;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:30
+msgid "Loei (&#3648;&#3621;&#3618;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:31
+msgid "Lopburi (&#3621;&#3614;&#3610;&#3640;&#3619;&#3637;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:32
+msgid ""
+"Mae Hong Son (&#3649;&#3617;&#3656;&#3630;&#3656;&#3629;&#3591;&#3626;&#3629;"
+"&#3609;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:33
+msgid ""
+"Maha Sarakham (&#3617;&#3627;&#3634;&#3626;&#3634;&#3619;&#3588;&#3634;"
+"&#3617;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:34
+msgid "Mukdahan (&#3617;&#3640;&#3585;&#3604;&#3634;&#3627;&#3634;&#3619;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:35
+msgid "Nakhon Nayok (&#3609;&#3588;&#3619;&#3609;&#3634;&#3618;&#3585;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:36
+msgid "Nakhon Pathom (&#3609;&#3588;&#3619;&#3611;&#3600;&#3617;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:37
+msgid "Nakhon Phanom (&#3609;&#3588;&#3619;&#3614;&#3609;&#3617;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:38
+msgid ""
+"Nakhon Ratchasima (&#3609;&#3588;&#3619;&#3619;&#3634;&#3594;&#3626;&#3637;"
+"&#3617;&#3634;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:39
+msgid ""
+"Nakhon Sawan (&#3609;&#3588;&#3619;&#3626;&#3623;&#3619;&#3619;&#3588;"
+"&#3660;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:40
+msgid ""
+"Nakhon Si Thammarat (&#3609;&#3588;&#3619;&#3624;&#3619;&#3637;&#3608;&#3619;"
+"&#3619;&#3617;&#3619;&#3634;&#3594;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:41
+msgid "Nan (&#3609;&#3656;&#3634;&#3609;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:42
+msgid "Narathiwat (&#3609;&#3619;&#3634;&#3608;&#3636;&#3623;&#3634;&#3626;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:43
+msgid ""
+"Nong Bua Lam Phu (&#3627;&#3609;&#3629;&#3591;&#3610;&#3633;&#3623;&#3621;"
+"&#3635;&#3616;&#3641;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:44
+msgid "Nong Khai (&#3627;&#3609;&#3629;&#3591;&#3588;&#3634;&#3618;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:45
+msgid "Nonthaburi (&#3609;&#3609;&#3607;&#3610;&#3640;&#3619;&#3637;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:46
+msgid "Pathum Thani (&#3611;&#3607;&#3640;&#3617;&#3608;&#3634;&#3609;&#3637;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:47
+msgid "Pattani (&#3611;&#3633;&#3605;&#3605;&#3634;&#3609;&#3637;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:48
+msgid "Phang Nga (&#3614;&#3633;&#3591;&#3591;&#3634;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:49
+msgid "Phatthalung (&#3614;&#3633;&#3607;&#3621;&#3640;&#3591;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:50
+msgid "Phayao (&#3614;&#3632;&#3648;&#3618;&#3634;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:51
+msgid ""
+"Phetchabun (&#3648;&#3614;&#3594;&#3619;&#3610;&#3641;&#3619;&#3603;&#3660;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:52
+msgid "Phetchaburi (&#3648;&#3614;&#3594;&#3619;&#3610;&#3640;&#3619;&#3637;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:53
+msgid "Phichit (&#3614;&#3636;&#3592;&#3636;&#3605;&#3619;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:54
+msgid "Phitsanulok (&#3614;&#3636;&#3625;&#3603;&#3640;&#3650;&#3621;&#3585;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:55
+msgid "Phrae (&#3649;&#3614;&#3619;&#3656;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:56
+msgid "Phuket (&#3616;&#3641;&#3648;&#3585;&#3655;&#3605;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:57
+msgid ""
+"Prachin Buri (&#3611;&#3619;&#3634;&#3592;&#3637;&#3609;&#3610;&#3640;&#3619;"
+"&#3637;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:58
+msgid ""
+"Prachuap Khiri Khan (&#3611;&#3619;&#3632;&#3592;&#3623;&#3610;&#3588;&#3637;"
+"&#3619;&#3637;&#3586;&#3633;&#3609;&#3608;&#3660;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:59
+msgid "Ranong (&#3619;&#3632;&#3609;&#3629;&#3591;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:60
+msgid "Ratchaburi (&#3619;&#3634;&#3594;&#3610;&#3640;&#3619;&#3637;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:61
+msgid "Rayong (&#3619;&#3632;&#3618;&#3629;&#3591;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:62
+msgid "Roi Et (&#3619;&#3657;&#3629;&#3618;&#3648;&#3629;&#3655;&#3604;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:63
+msgid "Sa Kaeo (&#3626;&#3619;&#3632;&#3649;&#3585;&#3657;&#3623;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:64
+msgid "Sakon Nakhon (&#3626;&#3585;&#3621;&#3609;&#3588;&#3619;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:65
+msgid ""
+"Samut Prakan (&#3626;&#3617;&#3640;&#3607;&#3619;&#3611;&#3619;&#3634;&#3585;"
+"&#3634;&#3619;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:66
+msgid ""
+"Samut Sakhon (&#3626;&#3617;&#3640;&#3607;&#3619;&#3626;&#3634;&#3588;"
+"&#3619;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:67
+msgid ""
+"Samut Songkhram (&#3626;&#3617;&#3640;&#3607;&#3619;&#3626;&#3591;&#3588;"
+"&#3619;&#3634;&#3617;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:68
+msgid "Saraburi (&#3626;&#3619;&#3632;&#3610;&#3640;&#3619;&#3637;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:69
+msgid "Satun (&#3626;&#3605;&#3641;&#3621;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:70
+msgid ""
+"Sing Buri (&#3626;&#3636;&#3591;&#3627;&#3660;&#3610;&#3640;&#3619;&#3637;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:71
+msgid "Sisaket (&#3624;&#3619;&#3637;&#3626;&#3632;&#3648;&#3585;&#3625;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:72
+msgid "Songkhla (&#3626;&#3591;&#3586;&#3621;&#3634;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:73
+msgid "Sukhothai (&#3626;&#3640;&#3650;&#3586;&#3607;&#3633;&#3618;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:74
+msgid ""
+"Suphan Buri (&#3626;&#3640;&#3614;&#3619;&#3619;&#3603;&#3610;&#3640;&#3619;"
+"&#3637;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:75
+msgid ""
+"Surat Thani (&#3626;&#3640;&#3619;&#3634;&#3625;&#3598;&#3619;&#3660;&#3608;"
+"&#3634;&#3609;&#3637;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:76
+msgid "Surin (&#3626;&#3640;&#3619;&#3636;&#3609;&#3607;&#3619;&#3660;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:77
+msgid "Tak (&#3605;&#3634;&#3585;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:78
+msgid "Trang (&#3605;&#3619;&#3633;&#3591;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:79
+msgid "Trat (&#3605;&#3619;&#3634;&#3604;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:80
+msgid ""
+"Ubon Ratchathani (&#3629;&#3640;&#3610;&#3621;&#3619;&#3634;&#3594;&#3608;"
+"&#3634;&#3609;&#3637;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:81
+msgid "Udon Thani (&#3629;&#3640;&#3604;&#3619;&#3608;&#3634;&#3609;&#3637;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:82
+msgid ""
+"Uthai Thani (&#3629;&#3640;&#3607;&#3633;&#3618;&#3608;&#3634;&#3609;&#3637;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:83
+msgid ""
+"Uttaradit (&#3629;&#3640;&#3605;&#3619;&#3604;&#3636;&#3605;&#3606;&#3660;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:84
+msgid "Yala (&#3618;&#3632;&#3621;&#3634;)"
+msgstr ""
+
+#: templates/countries/states/TH.php:85
+msgid "Yasothon (&#3618;&#3650;&#3626;&#3608;&#3619;)"
+msgstr ""
+
+#: templates/countries/states/TR.php:9
+msgid "Adana"
+msgstr ""
+
+#: templates/countries/states/TR.php:10
+msgid "Ad&#305;yaman"
+msgstr ""
+
+#: templates/countries/states/TR.php:11
+msgid "Afyon"
+msgstr ""
+
+#: templates/countries/states/TR.php:12
+msgid "A&#287;r&#305;"
+msgstr ""
+
+#: templates/countries/states/TR.php:13
+msgid "Amasya"
+msgstr ""
+
+#: templates/countries/states/TR.php:14
+msgid "Ankara"
+msgstr ""
+
+#: templates/countries/states/TR.php:15
+msgid "Antalya"
+msgstr ""
+
+#: templates/countries/states/TR.php:16
+msgid "Artvin"
+msgstr ""
+
+#: templates/countries/states/TR.php:17
+msgid "Ayd&#305;n"
+msgstr ""
+
+#: templates/countries/states/TR.php:18
+msgid "Bal&#305;kesir"
+msgstr ""
+
+#: templates/countries/states/TR.php:19
+msgid "Bilecik"
+msgstr ""
+
+#: templates/countries/states/TR.php:20
+msgid "Bing&#246;l"
+msgstr ""
+
+#: templates/countries/states/TR.php:21
+msgid "Bitlis"
+msgstr ""
+
+#: templates/countries/states/TR.php:22
+msgid "Bolu"
+msgstr ""
+
+#: templates/countries/states/TR.php:23
+msgid "Burdur"
+msgstr ""
+
+#: templates/countries/states/TR.php:24
+msgid "Bursa"
+msgstr ""
+
+#: templates/countries/states/TR.php:25
+msgid "&#199;anakkale"
+msgstr ""
+
+#: templates/countries/states/TR.php:26
+msgid "&#199;ank&#305;r&#305;"
+msgstr ""
+
+#: templates/countries/states/TR.php:27
+msgid "&#199;orum"
+msgstr ""
+
+#: templates/countries/states/TR.php:28
+msgid "Denizli"
+msgstr ""
+
+#: templates/countries/states/TR.php:29
+msgid "Diyarbak&#305;r"
+msgstr ""
+
+#: templates/countries/states/TR.php:30
+msgid "Edirne"
+msgstr ""
+
+#: templates/countries/states/TR.php:31
+msgid "Elaz&#305;&#287;"
+msgstr ""
+
+#: templates/countries/states/TR.php:32
+msgid "Erzincan"
+msgstr ""
+
+#: templates/countries/states/TR.php:33
+msgid "Erzurum"
+msgstr ""
+
+#: templates/countries/states/TR.php:34
+msgid "Eski&#351;ehir"
+msgstr ""
+
+#: templates/countries/states/TR.php:35
+msgid "Gaziantep"
+msgstr ""
+
+#: templates/countries/states/TR.php:36
+msgid "Giresun"
+msgstr ""
+
+#: templates/countries/states/TR.php:37
+msgid "G&#252;m&#252;&#351;hane"
+msgstr ""
+
+#: templates/countries/states/TR.php:38
+msgid "Hakkari"
+msgstr ""
+
+#: templates/countries/states/TR.php:39
+msgid "Hatay"
+msgstr ""
+
+#: templates/countries/states/TR.php:40
+msgid "Isparta"
+msgstr ""
+
+#: templates/countries/states/TR.php:41
+msgid "&#304;&#231;el"
+msgstr ""
+
+#: templates/countries/states/TR.php:42
+msgid "&#304;stanbul"
+msgstr ""
+
+#: templates/countries/states/TR.php:43
+msgid "&#304;zmir"
+msgstr ""
+
+#: templates/countries/states/TR.php:44
+msgid "Kars"
+msgstr ""
+
+#: templates/countries/states/TR.php:45
+msgid "Kastamonu"
+msgstr ""
+
+#: templates/countries/states/TR.php:46
+msgid "Kayseri"
+msgstr ""
+
+#: templates/countries/states/TR.php:47
+msgid "K&#305;rklareli"
+msgstr ""
+
+#: templates/countries/states/TR.php:48
+msgid "K&#305;r&#351;ehir"
+msgstr ""
+
+#: templates/countries/states/TR.php:49
+msgid "Kocaeli"
+msgstr ""
+
+#: templates/countries/states/TR.php:50
+msgid "Konya"
+msgstr ""
+
+#: templates/countries/states/TR.php:51
+msgid "K&#252;tahya"
+msgstr ""
+
+#: templates/countries/states/TR.php:52
+msgid "Malatya"
+msgstr ""
+
+#: templates/countries/states/TR.php:53
+msgid "Manisa"
+msgstr ""
+
+#: templates/countries/states/TR.php:54
+msgid "Kahramanmara&#351;"
+msgstr ""
+
+#: templates/countries/states/TR.php:55
+msgid "Mardin"
+msgstr ""
+
+#: templates/countries/states/TR.php:56
+msgid "Mu&#287;la"
+msgstr ""
+
+#: templates/countries/states/TR.php:57
+msgid "Mu&#351;"
+msgstr ""
+
+#: templates/countries/states/TR.php:58
+msgid "Nev&#351;ehir"
+msgstr ""
+
+#: templates/countries/states/TR.php:59
+msgid "Ni&#287;de"
+msgstr ""
+
+#: templates/countries/states/TR.php:60
+msgid "Ordu"
+msgstr ""
+
+#: templates/countries/states/TR.php:61
+msgid "Rize"
+msgstr ""
+
+#: templates/countries/states/TR.php:62
+msgid "Sakarya"
+msgstr ""
+
+#: templates/countries/states/TR.php:63
+msgid "Samsun"
+msgstr ""
+
+#: templates/countries/states/TR.php:64
+msgid "Siirt"
+msgstr ""
+
+#: templates/countries/states/TR.php:65
+msgid "Sinop"
+msgstr ""
+
+#: templates/countries/states/TR.php:66
+msgid "Sivas"
+msgstr ""
+
+#: templates/countries/states/TR.php:67
+msgid "Tekirda&#287;"
+msgstr ""
+
+#: templates/countries/states/TR.php:68
+msgid "Tokat"
+msgstr ""
+
+#: templates/countries/states/TR.php:69
+msgid "Trabzon"
+msgstr ""
+
+#: templates/countries/states/TR.php:70
+msgid "Tunceli"
+msgstr ""
+
+#: templates/countries/states/TR.php:71
+msgid "&#350;anl&#305;urfa"
+msgstr ""
+
+#: templates/countries/states/TR.php:72
+msgid "U&#351;ak"
+msgstr ""
+
+#: templates/countries/states/TR.php:73
+msgid "Van"
+msgstr ""
+
+#: templates/countries/states/TR.php:74
+msgid "Yozgat"
+msgstr ""
+
+#: templates/countries/states/TR.php:75
+msgid "Zonguldak"
+msgstr ""
+
+#: templates/countries/states/TR.php:76
+msgid "Aksaray"
+msgstr ""
+
+#: templates/countries/states/TR.php:77
+msgid "Bayburt"
+msgstr ""
+
+#: templates/countries/states/TR.php:78
+msgid "Karaman"
+msgstr ""
+
+#: templates/countries/states/TR.php:79
+msgid "K&#305;r&#305;kkale"
+msgstr ""
+
+#: templates/countries/states/TR.php:80
+msgid "Batman"
+msgstr ""
+
+#: templates/countries/states/TR.php:81
+msgid "&#350;&#305;rnak"
+msgstr ""
+
+#: templates/countries/states/TR.php:82
+msgid "Bart&#305;n"
+msgstr ""
+
+#: templates/countries/states/TR.php:83
+msgid "Ardahan"
+msgstr ""
+
+#: templates/countries/states/TR.php:84
+msgid "I&#287;d&#305;r"
+msgstr ""
+
+#: templates/countries/states/TR.php:85
+msgid "Yalova"
+msgstr ""
+
+#: templates/countries/states/TR.php:86
+msgid "Karab&#252;k"
+msgstr ""
+
+#: templates/countries/states/TR.php:87
+msgid "Kilis"
+msgstr ""
+
+#: templates/countries/states/TR.php:88
+msgid "Osmaniye"
+msgstr ""
+
+#: templates/countries/states/TR.php:89
+msgid "D&#252;zce"
+msgstr ""
+
+#: templates/countries/states/US.php:9
+msgid "Alabama"
+msgstr ""
+
+#: templates/countries/states/US.php:10
+msgid "Alaska"
+msgstr ""
+
+#: templates/countries/states/US.php:11
+msgid "Arizona"
+msgstr ""
+
+#: templates/countries/states/US.php:12
+msgid "Arkansas"
+msgstr ""
+
+#: templates/countries/states/US.php:13
+msgid "California"
+msgstr ""
+
+#: templates/countries/states/US.php:14
+msgid "Colorado"
+msgstr ""
+
+#: templates/countries/states/US.php:15
+msgid "Connecticut"
+msgstr ""
+
+#: templates/countries/states/US.php:16
+msgid "Delaware"
+msgstr ""
+
+#: templates/countries/states/US.php:17
+msgid "District Of Columbia"
+msgstr ""
+
+#: templates/countries/states/US.php:18
+msgid "Florida"
+msgstr ""
+
+#: templates/countries/states/US.php:19
+msgctxt "US state of Georgia"
+msgid "Georgia"
+msgstr ""
+
+#: templates/countries/states/US.php:20
+msgid "Hawaii"
+msgstr ""
+
+#: templates/countries/states/US.php:21
+msgid "Idaho"
+msgstr ""
+
+#: templates/countries/states/US.php:22
+msgid "Illinois"
+msgstr ""
+
+#: templates/countries/states/US.php:23
+msgid "Indiana"
+msgstr ""
+
+#: templates/countries/states/US.php:24
+msgid "Iowa"
+msgstr ""
+
+#: templates/countries/states/US.php:25
+msgid "Kansas"
+msgstr ""
+
+#: templates/countries/states/US.php:26
+msgid "Kentucky"
+msgstr ""
+
+#: templates/countries/states/US.php:27
+msgid "Louisiana"
+msgstr ""
+
+#: templates/countries/states/US.php:28
+msgid "Maine"
+msgstr ""
+
+#: templates/countries/states/US.php:29
+msgid "Maryland"
+msgstr ""
+
+#: templates/countries/states/US.php:30
+msgid "Massachusetts"
+msgstr ""
+
+#: templates/countries/states/US.php:31
+msgid "Michigan"
+msgstr ""
+
+#: templates/countries/states/US.php:32
+msgid "Minnesota"
+msgstr ""
+
+#: templates/countries/states/US.php:33
+msgid "Mississippi"
+msgstr ""
+
+#: templates/countries/states/US.php:34
+msgid "Missouri"
+msgstr ""
+
+#: templates/countries/states/US.php:36
+msgid "Nebraska"
+msgstr ""
+
+#: templates/countries/states/US.php:37
+msgid "Nevada"
+msgstr ""
+
+#: templates/countries/states/US.php:38
+msgid "New Hampshire"
+msgstr ""
+
+#: templates/countries/states/US.php:39
+msgid "New Jersey"
+msgstr ""
+
+#: templates/countries/states/US.php:40
+msgid "New Mexico"
+msgstr ""
+
+#: templates/countries/states/US.php:41
+msgid "New York"
+msgstr ""
+
+#: templates/countries/states/US.php:42
+msgid "North Carolina"
+msgstr ""
+
+#: templates/countries/states/US.php:43
+msgid "North Dakota"
+msgstr ""
+
+#: templates/countries/states/US.php:44
+msgid "Ohio"
+msgstr ""
+
+#: templates/countries/states/US.php:45
+msgid "Oklahoma"
+msgstr ""
+
+#: templates/countries/states/US.php:46
+msgid "Oregon"
+msgstr ""
+
+#: templates/countries/states/US.php:47
+msgid "Pennsylvania"
+msgstr ""
+
+#: templates/countries/states/US.php:48
+msgid "Rhode Island"
+msgstr ""
+
+#: templates/countries/states/US.php:49
+msgid "South Carolina"
+msgstr ""
+
+#: templates/countries/states/US.php:50
+msgid "South Dakota"
+msgstr ""
+
+#: templates/countries/states/US.php:51
+msgid "Tennessee"
+msgstr ""
+
+#: templates/countries/states/US.php:52
+msgid "Texas"
+msgstr ""
+
+#: templates/countries/states/US.php:53
+msgid "Utah"
+msgstr ""
+
+#: templates/countries/states/US.php:54
+msgid "Vermont"
+msgstr ""
+
+#: templates/countries/states/US.php:55
+msgid "Virginia"
+msgstr ""
+
+#: templates/countries/states/US.php:56
+msgid "Washington"
+msgstr ""
+
+#: templates/countries/states/US.php:57
+msgid "West Virginia"
+msgstr ""
+
+#: templates/countries/states/US.php:58
+msgid "Wisconsin"
+msgstr ""
+
+#: templates/countries/states/US.php:59
+msgid "Wyoming"
+msgstr ""
+
+#: templates/countries/states/US.php:60
+msgid "Armed Forces (AA)"
+msgstr ""
+
+#: templates/countries/states/US.php:61
+msgid "Armed Forces (AE)"
+msgstr ""
+
+#: templates/countries/states/US.php:62
+msgid "Armed Forces (AP)"
+msgstr ""
+
+#: templates/countries/states/US.php:63
+msgid "American Samoa"
+msgstr ""
+
+#: templates/countries/states/US.php:64
+msgid "Guam"
+msgstr ""
+
+#: templates/countries/states/US.php:65
+msgid "Northern Mariana Islands"
+msgstr ""
+
+#: templates/countries/states/US.php:66
+msgid "Puerto Rico"
+msgstr ""
+
+#: templates/countries/states/US.php:67
+msgid "US Minor Outlying Islands"
+msgstr ""
+
+#: templates/countries/states/US.php:68
+msgid "US Virgin Islands"
+msgstr ""
+
+#: templates/countries/states/ZA.php:9
+msgid "Eastern Cape"
+msgstr ""
+
+#: templates/countries/states/ZA.php:10
+msgid "Free State"
+msgstr ""
+
+#: templates/countries/states/ZA.php:11
+msgid "Gauteng"
+msgstr ""
+
+#: templates/countries/states/ZA.php:12
+msgid "KwaZulu-Natal"
+msgstr ""
+
+#: templates/countries/states/ZA.php:13
+msgid "Limpopo"
+msgstr ""
+
+#: templates/countries/states/ZA.php:14
+msgid "Mpumalanga"
+msgstr ""
+
+#: templates/countries/states/ZA.php:15
+msgid "Northern Cape"
+msgstr ""
+
+#: templates/countries/states/ZA.php:16
+msgid "North West"
+msgstr ""
+
+#: templates/countries/states/ZA.php:17
+msgid "Western Cape"
+msgstr ""
+
+#: templates/loop/psc-no-products-found.php:6
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: templates/loop/psc-result-count.php:20
+msgid "Showing the single result"
+msgstr ""
+
+#: templates/loop/psc-result-count.php:22
+msgid "Showing all %d results"
+msgstr ""
+
+#: templates/loop/psc-result-count.php:24
+msgctxt "%1$d = first, %2$d = last, %3$d = total"
+msgid "Showing %1$d&ndash;%2$d of %3$d results"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "PayPal Shopping Cart"
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (PayPal Shopping Cart 1.0.1)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  plugin.pot (PayPal Shopping Cart 1.0.1)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "https://www.premiumdev.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"PayPal Shopping Cart is a powerful, extendable eCommerce plugin. Great for "
+"selling products online in your WordPress site."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "wpgateways"
+msgstr ""

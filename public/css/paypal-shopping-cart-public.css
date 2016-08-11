@@ -1,0 +1,1060 @@
+.paypal-shopping-carts .psc-products ul::after, .paypal-shopping-carts .psc-products ul::before, .paypal-shopping-carts ul.psc-products::after, .paypal-shopping-carts ul.psc-products::before{
+    content: " ";
+    display: table;
+}
+
+.paypal-shopping-carts p.psc-result-count { margin: 0 0 1em; }
+
+.paypal-shopping-carts ul.psc-products::after,.paypal-shopping-carts ul.psc-products li.first {
+    clear: both;
+}
+.paypal-shopping-carts ul.psc-products {
+    clear: both;
+    list-style: none;
+    margin: 0 0 1em;
+    padding: 0;
+}
+.paypal-shopping-carts ul.psc-products li.psc_product{
+    float: left;
+    margin: 0 3.8% 2.992em 0;   
+    position: relative;
+    width: 22.05%;   
+    border-radius: 5px;    
+    
+}
+.paypal-shopping-carts ul.psc-products li.last {
+    margin-right: 0;
+}
+.paypal-shopping-carts ul.psc-products li{
+    list-style: none;
+}
+.paypal-shopping-carts ul.psc-products li.psc_product a {
+    text-decoration: none;
+    list-style: none;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+.paypal-shopping-carts ul.psc-products li.psc_product a img,.paypal-shopping-carts div.psc-single-image div.images img{
+    box-shadow: none;
+    display: block;
+    height: auto;
+    margin: 0 0 1em;
+    width: 100%;
+
+}
+
+.paypal-shopping-carts img{
+    max-width: 100%; 
+}
+.paypal-shopping-carts ul.psc-products li.psc_product h3{
+    font-size: 1em;
+    margin: 0;
+    padding: 0.5em 0;
+}
+.paypal-shopping-carts ul.psc-products li.psc_product .price,.paypal-shopping-carts div.psc-single-image div.psc-entry-summary p.price{
+    color: #77a464;
+    display: block;
+    font-size: 0.857em;
+    font-weight: 400;
+    margin-bottom: 1.5em;
+}
+.paypal-shopping-carts nav.psc-pagination {   
+    text-align: center;
+}
+.paypal-shopping-carts nav.psc-pagination ul {
+    display: inline-block;
+    white-space: nowrap;
+    padding: 0;
+    border: 1px solid #d3ced2;
+    border-right: 0;
+    margin: 1px;
+}
+.paypal-shopping-carts nav.psc-pagination ul li {
+    border-right: 1px solid #d3ced2;
+    padding: 0;
+    margin: 0;
+    float: left;
+    display: inline;
+    overflow: hidden;
+}
+
+.paypal-shopping-carts nav.psc-pagination ul li span.current {
+    background: #ebe9eb;
+    color: #8a7e88;
+}
+
+.paypal-shopping-carts nav.psc-pagination ul li span {
+    margin: 0;
+    text-decoration: none;
+    line-height: 1;
+    font-size: 1em;
+    font-weight: 400;
+    padding: .5em;
+    min-width: 1em;
+    display: block;
+}
+.paypal-shopping-carts nav.psc-pagination ul li a {
+    margin: 0;
+    text-decoration: none;
+    line-height: 1 !important;
+    font-size: 1em !important;
+    font-weight: 400;
+    padding: .5em;
+    min-width: 1em;
+    display: block;
+}
+.paypal-shopping-carts nav.psc-pagination ul li:hover {
+    background: #ebe9eb;
+}
+
+
+.paypal-shopping-carts div.psc-single-image div.psc-entry-summary p.in-stock{
+    font-weight: 700;
+    color: #77a464;
+    background: 0 0;
+    line-height: 1;
+}
+.paypal-shopping-carts div.psc-single-image div.psc-entry-summary p.out-of-stock{
+    font-weight: 700;
+    color: #a44;
+    background: 0 0;
+    line-height: 1;
+}
+.paypal-shopping-carts div.psc-single-image div.psc-entry-summary p.price{
+    font-size: 1.25em;
+    display: inline-flex;
+}
+.paypal-shopping-carts ul.psc-products li.psc_product .price del,.paypal-shopping-carts div.psc-single-image div.psc-entry-summary p.price del{
+    color: inherit;
+/*    display: block;*/
+    opacity: 0.5;
+}
+.paypal-shopping-carts ul.psc-products li.psc_product .price ins,.paypal-shopping-carts div.psc-single-image div.psc-entry-summary p.price ins{
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    font-weight: 700;   
+    color: #77a464;
+/*    float: left;*/
+}
+.paypal-shopping-carts ul.psc-products li.psc_product .button{
+    margin-top: 1em;
+}
+
+.paypal-shopping-carts .psc-button{
+    background-color: #dad8da;
+    background-image: none;
+    border: 0 none;
+    border-radius: 3px;
+    box-shadow: none;
+    color: #515151;
+    cursor: pointer;
+    display: inline-block;
+    font-family: inherit;
+    font-size: 100%;
+    font-weight: 700;
+    left: auto;
+    line-height: 1;
+    margin: 0;
+    overflow: visible;
+    padding: 0.618em 0.5em;
+    position: relative;
+    text-decoration: none;
+    text-shadow: none;
+    white-space: nowrap;
+}
+
+/**
+single product view
+*/
+
+.paypal-shopping-carts div.psc-single-image{
+    width: 100%;
+    margin-bottom: 0;
+    position: relative;
+    display: inline-block;
+
+}
+.paypal-shopping-carts div.psc-single-image div.images,.psc-col2-set .psc-col-1{  
+    float: left;
+    width: 48%;
+}
+.paypal-shopping-carts div.psc-single-image div.psc-summary,.psc-col2-set .psc-col-2{
+    float: right;
+    width: 48%;
+}
+.paypal-shopping-carts div.psc-single-image div.images,.paypal-shopping-carts div.psc-single-image div.psc-summary{
+    margin-bottom: 2em;
+}
+
+
+.paypal-shopping-carts div.psc-single-image div.psc-summary .product_title{
+    clear: none;
+    margin-top: 0;
+    padding-bottom: 10px;
+}
+.paypal-shopping-carts div.psc-single-image div.psc-summary div.psc-single-product-add-to-cart #psc_quantity{
+    float: left;
+    margin: 0 4px 0 0;
+    width: 3.631em;
+    text-align: center;
+    padding: 3px;
+}
+
+
+.paypal-shopping-carts div.psc-single-image div.psc-entry-summary div.psc-single-product-add-to-cart span.qty_less_then_stock_error{
+    clear: both;
+    display: block;
+    padding-top: 10px;
+    color: #a44; 
+    font-weight: 600;
+}
+
+.paypal-shopping-carts div.psc-single-image div.psc-entry-summary div.psc-single-product-add-to-cart a.view_cart{   
+    clear: both;    
+}
+.paypal-shopping-carts div.psc-single-image div.psc-entry-summary div.psc-single-product-add-to-cart a.view_cart:hover{   
+    text-decoration: none;
+    list-style: outside none none;
+}
+
+.paypal-shopping-carts div.psc-single-image div.psc-content psc-content-wrapper{   
+    clear: both;
+}
+
+.paypal-shopping-carts div.psc-single-image div.psc-content-wrapper h1,h2,h3,h4,h5{   
+    color: #000;
+    font-weight: bold;
+    margin: 0 0 .8125em;
+}
+
+@media screen and (max-width: 768px) {
+    .paypal-shopping-carts div.psc-single-image div.images{
+        float: none;
+        width: 100%;
+    }
+    .paypal-shopping-carts div.psc-single-image div.psc-summary{
+        float: none;
+        width: 100%;
+    }
+}
+
+/**
+cart page
+*/
+
+.paypal-shopping-carts div.psc_shop_table_div{   
+
+}
+.paypal-shopping-carts div.psc-return-shop-page{   
+    margin: 0 auto;
+    width: 68.9%;
+    padding: 1.625em 0 2em;
+}
+.paypal-shopping-carts div.psc-return-shop-page p{   
+    margin-bottom: 1.625em;
+}
+
+.paypal-shopping-carts div.psc_shop_table_div table.psc_shop_table{   
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-collapse: separate;
+    border-radius: 5px;
+    margin: 0 -1px 24px 0;
+    text-align: left;
+    width: 100%;
+    border-collapse: separate;
+    text-align: left;
+}
+.paypal-shopping-carts div.psc_shop_table_div table.psc_shop_table th{   
+     font-weight: 700;
+    padding: 9px 12px;
+     vertical-align: middle;
+}
+.paypal-shopping-carts div.psc_shop_table_div table.psc_shop_table td{   
+     border-top: 1px solid rgba(0, 0, 0, 0.1);
+    padding: 6px 12px;
+}
+.paypal-shopping-carts div.psc_shop_table_div table.psc_shop_table .psc-product-remove span.psc-product-remove-icon:hover img {-webkit-transform:scale(1.1);-moz-transform:scale(1.1);-ms-transform:scale(1.1);-o-transform:scale(1.1); transform:scale(1.1);
+}
+.paypal-shopping-carts div.psc_shop_table_div table.psc_shop_table .psc-product-thumbnail{   
+    min-width: 32px;
+}
+.paypal-shopping-carts div.psc_shop_table_div table.psc_shop_table .psc-product-thumbnail img{   
+    width: 32px;
+    box-shadow: none;
+}
+.paypal-shopping-carts div.psc_shop_table_div table.psc_shop_table .psc-product-quantity input{      
+    text-align: center;
+    margin: 0;
+    vertical-align: middle;
+    line-height: 1;
+    width: 70px;
+}
+.paypal-shopping-carts div.psc_shop_table_div table.psc_shop_table td span#psc_update_cart{   
+    float: right;     
+}
+
+.paypal-shopping-carts div.psc_shop_table_div div.psc-totals-checkout{   
+
+    position: relative;
+
+}
+.paypal-shopping-carts div.psc_shop_table_div div.psc-totals-checkout div.psc-total-carts{   
+    float: right;
+    width: 48%;
+    display: inline-table;
+}
+.paypal-shopping-carts div.psc_shop_table_div div.psc-totals-checkout div.psc-total-carts div.psc-proceed-to-checkout{   
+    padding: 1em 0;
+    float: right;
+}
+.paypal-shopping-carts div.psc_shop_table_div div.psc-totals-checkout div.psc-total-carts div.psc-proceed-to-checkout a.psc_proceed_to_checkout{   
+    background-color: #a46497;
+    background-image: none;
+    border: 0 none;
+    border-radius: 3px;
+    box-shadow: none;
+    color: #FFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family: inherit;
+    font-size: 100%;
+    font-weight: 700;
+    left: auto;
+    line-height: 1;
+    margin: 0;
+    overflow: visible;
+    padding: 0.618em 0.5em;
+    position: relative;
+    text-decoration: none;
+    text-shadow: none;
+    white-space: nowrap;
+}
+.paypal-shopping-carts div.psc_shop_table_div div.psc-totals-checkout div.psc-total-carts div.psc-proceed-to-checkout a{   
+    display: block;
+    text-align: center;
+    margin-bottom: 1em;
+	border: none;
+}
+.paypal-shopping-carts div.psc_shop_table_div div.psc-totals-checkout div.psc-total-carts table{   
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-collapse: separate;
+    border-radius: 5px;
+    margin: 0 -1px 24px 0;
+    text-align: left;
+    width: 100%;
+}
+.paypal-shopping-carts div.psc_shop_table_div div.psc-totals-checkout div.psc-total-carts table th{   
+    vertical-align: top;
+    border-left: 0;
+    border-right: 0;
+    padding: 6px 0;
+    line-height: 2em;
+    color: #666;
+    font-size: 10px;
+    font-weight: 700;
+    text-transform: uppercase;
+    /*width: 25%;*/
+    padding-right: 4em;
+    /*border: 1px solid #ddd;*/
+   border-bottom:none;
+   padding-left: 20px;
+}
+.paypal-shopping-carts div.psc_shop_table_div div.psc-totals-checkout div.psc-total-carts table.psc-chackout-table th{width: 40%;}
+
+table.paypal-shopping-carts th {
+    border-left: 0 none;
+    border-right: 0 none;
+    line-height: 1.5em;
+    vertical-align: top;
+}
+
+.paypal-shopping-carts div.psc_shop_table_div div.psc-totals-checkout div.psc-total-carts table td{  
+/*    border: 1px solid #ddd;
+    border-bottom:none;*/
+    padding-left: 20px;
+}
+   
+.paypal-shopping-carts div.psc_shop_table_div div.psc-totals-checkout div.psc-total-carts #psc_process_checkout{   
+    padding: 1em 0;
+    display: block;
+    background: #ADD8E6;
+    color: #515151;
+    text-align: center;
+    margin-bottom: 1em;   
+    -webkit-font-smoothing: antialiased;
+}
+
+/**
+Checkout Page
+*/
+
+.paypal-shopping-carts div.paypal-shopping-carts-checkout #psc_customer_billing_details,.paypal-shopping-carts div.paypal-shopping-carts-checkout #psc_customer_billing_details div#psc_billing_div{   
+    width: 100%;
+}
+
+.paypal-shopping-carts div.paypal-shopping-carts-checkout #psc_customer_billing_details div#psc_billing_div .psc-billing-fields p.psc-row{   
+    padding: 3px;
+    margin: 0 0 6px;
+}
+.paypal-shopping-carts div.paypal-shopping-carts-checkout #psc_customer_billing_details div#psc_billing_div .psc-billing-fields p.psc-row-first{   
+    float: left;
+    width: 47%;
+    overflow: visible;
+}
+.paypal-shopping-carts div.paypal-shopping-carts-checkout #psc_customer_billing_details div#psc_billing_div .psc-billing-fields p.psc-row-last{   
+    float: right;
+    width: 47%;
+    overflow: visible;
+}
+.paypal-shopping-carts div.paypal-shopping-carts-checkout #psc_customer_billing_details div#psc_billing_div .psc-billing-fields p.psc-row label{   
+    line-height: 2;
+    display: block;
+}
+.paypal-shopping-carts div.paypal-shopping-carts-checkout #psc_customer_billing_details div#psc_billing_div .psc-billing-fields p.psc-row .required{   
+    color: red;
+    font-weight: 700;
+    border: 0;
+}
+
+.paypal-shopping-carts div.paypal-shopping-carts-checkout #psc_customer_billing_details div#psc_billing_div .psc-billing-fields p.psc-row input.input-text{   
+    box-sizing: border-box;
+    width: 100%;
+    margin: 0;
+    outline: 0;
+    line-height: 1;
+}
+.paypal-shopping-carts div.paypal-shopping-carts-checkout #psc_customer_billing_details div#psc_billing_div .psc-billing-fields p.psc-row select{   
+    float: none;
+    width: 100%;
+    overflow: visible;
+    padding: 0.5em;
+}
+.paypal-shopping-carts div.paypal-shopping-carts-checkout #psc_customer_billing_details div#psc_billing_div .psc-billing-fields p.psc-row-dropdown, p.psc-row-wide{   
+    clear: both;
+}
+.paypal-shopping-carts div.paypal-shopping-carts-checkout #psc_customer_billing_details div#psc_billing_div .psc-billing-fields p.psc-row textarea{   
+    height: 4em;
+    line-height: 1.5;
+    display: block;
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    padding-left: 3px;
+    margin: 0;
+    outline: 0;
+}
+.paypal-shopping-carts div.paypal-shopping-carts-checkout table.psc-checkout-review-order-table, .pscpaypalexpress_order_review .paypal_express_checkout table.psc-checkout-review-order-table, .psc-received table.psc-checkout-review-order-table{
+    border: 1px solid rgba(0,0,0,.1);
+    margin: 0 -1px 24px 0;
+    text-align: left;
+    width: 100%;
+    border-collapse: separate;
+    border-radius: 5px;
+}
+.pscpaypalexpress_order_review .paypal_express_checkout table.psc-checkout-review-order-table th, .paypal-shopping-carts div.paypal-shopping-carts-checkout .psc-checkout-review-order-table th, .psc-received table.psc-checkout-review-order-table th{ 
+    font-weight: 700;
+    padding: 9px 12px;
+    text-align: left;
+}
+.pscpaypalexpress_order_review .paypal_express_checkout table.psc-checkout-review-order-table td, .paypal-shopping-carts div.paypal-shopping-carts-checkout .psc-checkout-review-order-table td, .psc-received table.psc-checkout-review-order-table td{ 
+    border-top: 1px solid rgba(0,0,0,.1);
+    padding: 6px 12px;
+    vertical-align: middle;
+}
+.pscpaypalexpress_order_review .paypal_express_checkout table.psc-checkout-review-order-table tr.cart-subtotal th, .pscpaypalexpress_order_review .paypal_express_checkout table.psc-checkout-review-order-table tr.order-total th, .psc-received table.psc-checkout-review-order-table tr.cart-subtotal th, .psc-received table.psc-checkout-review-order-table tr.cart-shipping th, .psc-received table.psc-checkout-review-order-table tr.cart-payment-method th, .psc-received table.psc-checkout-review-order-table tr.cart-payment-method th, .psc-received table.psc-checkout-review-order-table tr.order-total th, tr.cart-coupons th, tr.cart-order-tax th, tr.cart-order-ship th{
+    border-top: 1px solid #ddd; 
+}
+
+/**
+payment methods
+*/
+
+.paypal-shopping-carts div.paypal-shopping-carts-checkout .psc-checkout-review-order div#psc-payment{ 
+
+    border-radius: 5px;  
+    background: #ebe9eb;
+}
+.paypal-shopping-carts div.paypal-shopping-carts-checkout .psc-checkout-review-order div#psc-payment ul.psc_payment_methods{ 
+    text-align: left;
+    padding: 1em;
+    border-bottom: 1px solid #d3ced2;
+    margin: 0;
+    list-style: none;
+}
+.paypal-shopping-carts div.paypal-shopping-carts-checkout .psc-checkout-review-order div#psc-payment ul.psc_payment_methods li div.psc_payment_box{ 
+    position: relative;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 0em;    
+    font-size: .92em;
+    border-radius: 2px;
+    line-height: 1.5;
+    background-color: #ebe9eb;
+    color: #515151;   
+    height:0px;
+    overflow:hidden;
+    z-index:10;
+}
+.paypal-shopping-carts div.paypal-shopping-carts-checkout .psc-checkout-review-order div#psc-payment ul.psc_payment_methods li label{ 
+    width: 100%;
+    border-radius: 3px;    
+}
+.paypal-shopping-carts div.paypal-shopping-carts-checkout .psc-checkout-review-order div#psc-payment ul.psc_payment_methods li input.input-radio-button:empty{ 
+    margin-left: -2000px;
+}
+.paypal-shopping-carts div.paypal-shopping-carts-checkout .psc-checkout-review-order div#psc-payment ul.psc_payment_methods li input.input-radio-button:empty ~ label{ 
+
+    float: left;
+    line-height: 2.5em;
+    text-indent: 3.25em;
+
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+.paypal-shopping-carts div.paypal-shopping-carts-checkout .psc-checkout-review-order div#psc-payment ul.psc_payment_methods li input.input-radio-button:empty ~ label:before{ 
+    position: absolute;
+    display: block;
+    content:'\25b6';
+    text-indent: 1.9em; 
+    margin-left: -1.7em;
+}
+
+.paypal-shopping-carts div.paypal-shopping-carts-checkout .psc-checkout-review-order div#psc-payment ul.psc_payment_methods li input.input-radio-button:checked ~ label:before{ 
+    content:'\2714';
+    text-indent: 1.9em;  
+    margin-left: -1.7em;
+}
+
+.paypal-shopping-carts div.paypal-shopping-carts-checkout .psc-checkout-review-order div#psc-payment ul.psc_payment_methods li input.input-radio-button:checked ~ .psc_payment_box{ 
+    border-bottom-left-radius: .25em;
+    border-bottom-right-radius: .25em;
+    height: auto;
+    margin-bottom: .125em;
+    background: #dfdcde;
+}
+
+
+.paypal-shopping-carts div.paypal-shopping-carts-checkout .psc-checkout-review-order div#psc-payment ul.psc_payment_methods li .psc_payment_box p{    
+    margin: 1em;
+}
+
+.paypal-shopping-carts div.paypal-shopping-carts-checkout .psc-checkout-review-order div#psc-payment div.psc-row{    
+    padding: 1em 1em 3.5em;
+}
+.paypal-shopping-carts div.paypal-shopping-carts-checkout .psc-checkout-review-order div#psc-payment div.psc-row #psc_place_order{    
+    float: right;    
+    background: #935386;
+    color: #FFF;
+    -webkit-font-smoothing: antialiased;
+}
+
+.paypal-shopping-carts div.psc-enable_express-checkout, .paypal-shopping-carts div.psc-single-image div.psc-enable_express-checkout {    
+
+    padding: 1em 2em 1em 0px!important;
+    position: relative;
+/*    background-color: #f7f6f7;*/
+    color: #515151;
+    border-top: 3px solid #1e85be;
+    border-bottom: 3px solid #1e85be;
+    list-style: none!important;
+    width: auto;
+    word-wrap: break-word;
+}
+
+.paypal-shopping-carts div.psc-single-image div.psc-enable_express-checkout {    
+    border:none;
+}
+
+@media screen and (min-width: 59.6875em){
+    .twentyfifteen .t15wc {
+        margin-left: 8.3333%;
+        margin-right: 8.3333%;
+        padding: 10%;
+    }
+}
+
+@media screen and (min-width: 38.75em){
+    .twentyfifteen .t15wc {
+        margin-right: 7.6923%;
+        margin-left: 7.6923%;
+        margin-top: 8.3333%;
+    }
+}
+
+.twentyfifteen .t15wc{
+    margin-bottom: 7.6923%;
+    background: #fff;
+    box-shadow: 0 0 1px rgba(0,0,0,.15);
+}
+
+
+@media screen and (min-width: 59.6875em){
+    .twentyfifteen .t15wc {
+        margin-left: 8.3333%;
+        margin-right: 8.3333%;
+        padding: 10%;
+    }
+}
+
+@media screen and (min-width: 1218px){
+    .full-width .twentyfourteen .tfwc {
+        margin-right: auto;
+    }
+    .twentyfourteen .tfwc {
+        padding-right: 30px;
+        padding-left: 30px;
+    }
+
+}
+.twentyfourteen .tfwc {
+    padding: 12px 10px 0;
+    max-width: 474px;
+    margin: 0 auto;
+}
+.full-width .twentyfourteen .tfwc .psc_shop_table_div {
+    width: auto;
+}
+
+
+.pscpaypalexpress_order_review form.paypal_express_checkout .button {
+    background-color: #77a464;
+    background-image: none;
+    border: 0 none;
+    border-radius: 3px;
+    box-shadow: none;
+    color: #FFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family: inherit;
+    font-size: 100%;
+    font-weight: 700;
+    left: auto;
+    line-height: 1;
+    margin: 0;
+    overflow: visible;
+    padding: 0.618em 1em;
+    position: relative;
+    text-decoration: none;
+    text-shadow: none;
+    white-space: nowrap;
+}
+.psc-received .psc-thankyou-order-details{
+    margin: 0 0 1.5em;
+    list-style: none;
+    clear: both;
+    padding-bottom: 3em;
+}
+
+
+.psc-received .psc-thankyou-order-details li{
+    float: left;
+    margin-right: 2em;
+    text-transform: uppercase;
+    font-size: .715em;
+    line-height: 1;
+    border-right: 1px dashed #d3ced2;
+    padding-right: 2em;
+    margin-left: 0;
+    padding-left: 0;
+}
+
+.psc-received .psc-thankyou-order-details li strong {
+    display: block;
+    font-size: 1.4em;
+    text-transform: none;
+    line-height: 1.5;
+    font-weight: bold;
+}
+
+div.psc_display_notice .psc-alert-box {
+    color:#555;    
+    font-family:Tahoma,Geneva,Arial,sans-serif;
+    font-size:13px;
+    padding:10px 10px;
+    margin:10px;
+}
+div.psc_display_notice .psc-alert-box span {
+    font-weight:bold;
+    text-transform:uppercase;
+    font-size:13px;
+}	
+div.psc_display_notice .psc-error {
+    background: #ffecec;
+    border:1px solid #f5aca6;
+}
+
+div.psc_display_notice .psc-success {
+    background: #e9ffd9;
+    border:1px solid #a6ca8a;
+}
+
+div.psc_display_notice .psc-warning {
+    background: #fff8c4;
+    border:1px solid #f2c779;
+}
+
+div.psc_display_notice .psc-notice {
+    background: #e3f7fc;
+    border:1px solid #8ed9f6;
+}
+
+div.psc_display_notice .psc-info {
+    color: #00529B;
+    background-color: #BDE5F8;
+}
+
+
+
+
+/* START Make the cart table responsive */
+/* http://css-tricks.com/responsive-data-tables/ */
+
+@media screen and (max-width: 600px) {
+
+    /* Force table to not be like tables anymore */
+    .paypal-shopping-carts table.psc_shop_table, 
+    .paypal-shopping-carts table.psc_shop_table thead, 
+    .paypal-shopping-carts table.psc_shop_table tbody, 
+    .paypal-shopping-carts table.psc_shop_table th, 
+    .paypal-shopping-carts table.psc_shop_table td, 
+    .paypal-shopping-carts table.psc_shop_table tr { 
+        display: block; 
+    }
+    .paypal-shopping-carts table.psc_shop_table thead tr {
+        display: none; 
+    }
+    .paypal-shopping-carts table.psc_shop_table tbody tr td.psc-product-thumbnail {
+        display: none; 
+    }
+    .paypal-shopping-carts table.psc_shop_table{
+        border: none; 
+    }
+    .paypal-shopping-carts div.psc_shop_table_div table.psc_shop_table{
+        border: none;
+    }
+    /* Hide table headers (but not display: none;, for accessibility) */
+    .paypal-shopping-carts table.psc_shop_table thead tr.main_header_tr { 
+        display: none;
+    }
+
+    .paypal-shopping-carts table.psc_shop_table tr { 
+        border: 1px solid #d2d3d3;
+    }
+
+    .paypal-shopping-carts table.psc_shop_table td { 
+        /* Behave  like a "row" */
+        border: none; 
+        position: relative;
+
+    }
+
+    .paypal-shopping-carts table.psc_shop_table {
+        border: none;
+    }
+
+
+    .paypal-shopping-carts table.psc_shop_table td:before { 
+
+        position: absolute;	
+        top: 6px;
+        left: 6px;
+        padding-right: 10px; 
+        white-space: nowrap;
+    }
+
+    /*
+    Label the data
+    */
+   
+
+    .paypal-shopping-carts table.psc_shop_table td.psc-product-thumbnail:before {
+        display: none;
+    }
+    .paypal-shopping-carts table.psc_shop_table td.psc-product-thumbnail:after {
+        text-align: center;
+    }
+
+    .paypal-shopping-carts table.psc_shop_table td.psc-product-name:before {
+        content: "Product: ";        
+        float: left;
+        font-weight: 700;
+    }
+
+    .paypal-shopping-carts table.psc_shop_table td.psc-product-price:before {
+        content: "Price: ";
+        float: left;
+        font-weight: 700;
+    }
+
+    .paypal-shopping-carts table.psc_shop_table td.psc-product-quantity:before {
+        content: "Quantity: ";
+        float: left;
+        font-weight: 700;
+    }
+
+    .paypal-shopping-carts table.psc_shop_table td.psc-product-subtotal:before {
+        content: "Total: ";
+        float: left;
+        font-weight: 700;
+    }
+
+    .psc_shop_table_div .quantity, 
+    .psc_shop_table_div #content .quantity, 
+    .paypal-shopping-carts .quantity, 
+    .paypal-shopping-carts #content .quantity {
+        margin: 0;
+    }
+
+    .paypal-shopping-carts table.cart td.actions, 
+    .paypal-shopping-carts #content table.cart td.actions {
+        text-align: left;
+        border:0;
+        padding-left: 6px !important;
+    }
+
+    .paypal-shopping-carts table.cart td.actions .button.alt, 
+    .paypal-shopping-carts #content table.cart td.actions .button.alt {
+        float: left;
+        margin-top: 10px;
+    }
+
+    .paypal-shopping-carts table.cart td.actions div, 
+    .paypal-shopping-carts #content table.cart td.actions div,
+    .paypal-shopping-carts table.cart td.actions input, 
+    .paypal-shopping-carts #content table.cart td.actions input {
+        margin-bottom: 10px;
+    }
+
+    .paypal-shopping-carts .cart-collaterals .cart_totals {
+        float: left;
+        width: 100%;
+        text-align: left;
+    }
+
+    .paypal-shopping-carts .cart-collaterals .cart_totals th, 
+    .paypal-shopping-carts .cart-collaterals .cart_totals td {
+        border:0 !important;
+    }
+
+    .paypal-shopping-carts .cart-collaterals .cart_totals table tr.cart-subtotal td,
+    .paypal-shopping-carts .cart-collaterals .cart_totals table tr.shipping td,
+    .paypal-shopping-carts .cart-collaterals .cart_totals table tr.total td {
+        padding-left: 6px !important;
+    }
+
+    .paypal-shopping-carts table.psc_shop_table tr.cart-subtotal td,
+    .paypal-shopping-carts table.psc_shop_table tr.shipping td,
+    .paypal-shopping-carts table.psc_shop_table tr.total td,
+    .paypal-shopping-carts table.psc_shop_table.order_details tfoot th,
+    .paypal-shopping-carts table.psc_shop_table.order_details tfoot td {
+        padding-left: 6px !important;
+        border:0 !important;
+    }
+
+    .paypal-shopping-carts table.psc_shop_table tbody {
+        padding-top: 10px;
+    }
+    .paypal-shopping-carts div.psc_shop_table_div table.psc_shop_table td span#psc_update_cart{
+        float: none;
+        margin-top: 5px;
+    }
+    .paypal-shopping-carts div.psc_shop_table_div div.psc-totals-checkout div.psc-total-carts{
+        float: right;
+    }
+
+    .paypal-shopping-carts ul.psc-products li.psc_product{
+        clear: left;
+    }
+    .paypal-shopping-carts div.psc_shop_table_div table.psc_shop_table td{
+        text-align: right!important;
+    }
+    .paypal-shopping-carts div.psc_shop_table_div table.psc_shop_table td input{
+        width: 100%;
+    }
+    .paypal-shopping-carts div.psc_shop_table_div table.psc_shop_table td.psc-product-remove{
+        display: initial;
+
+}
+    .paypal-shopping-carts div.psc_shop_table_div #psc_applay_coupons_text{
+
+        float: left !important;
+        width: 48% !important;
+    }
+    .paypal-shopping-carts div.psc_shop_table_div div.psc-totals-checkout div.psc-total-carts table th{   
+
+        color: #000;    
+        font-weight: 700;
+    }
+    .paypal-shopping-carts ul.psc-products{
+        margin-left: 5em;
+    }
+    .paypal-shopping-carts ul.psc-products li.psc_product{    
+        width: 60%;      
+    }
+
+}
+/*Single Product Tabs*/
+
+.psc-single-product-tabs-menu {
+    clear: both;
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.psc-single-product-tabs-menu li { 
+
+    float: left;
+    margin-right: 10px;
+    background-color: #E8E8E8;
+    border: 1px solid #d4d4d1;
+    padding: 5px;
+}
+
+.psc-single-product-tabs-menu li.current {
+    position: relative;       
+    z-index: 5;
+}
+
+.psc-single-product-tabs-menu li a {   
+    text-transform: uppercase;
+    color: #444;
+    font-weight: 700;
+    text-decoration: none; 
+}
+
+.psc-single-product-tabs {
+    border: 1px solid #d4d4d1;
+    clear: both;
+    float: left;
+    margin-bottom: 20px;
+
+    width: 100%;
+}
+
+.psc-single-product-tabs-content {    
+    padding: 20px;
+}
+.paypal-shopping-carts div.psc_shop_table_div #psc_applay_coupons_text{
+    padding: -1px 0px 7px;
+    width: 30%;
+}
+.psc-error span.view_full_cart a{
+    
+    text-decoration: none;
+    padding-top: 0px;    
+    float: right;
+    color: black;
+    border: 2px solid #555555;
+}
+/* END Make the cart table responsive */
+.paypal-shopping-carts-checkout #psc_order_review table.psc-checkout-review-order-table tr.cart-subtotal th,.paypal-shopping-carts-checkout #psc_order_review table.psc-checkout-review-order-table tr.order-total th {
+    border-top: 1px solid #ddd; 
+}
+
+/***cart total ******/
+.paypal-shopping-carts table.psc-chackout-table tbody:first-child tr:first-child td, .paypal-shopping-carts table.psc_shop_table tbody:first-child tr:first-child th, table.psc-checkout-review-order-table tbody:first-child tr:first-child td {
+    border-top: 0 none;
+}
+.psc-totals-checkout .psc-total-carts table.psc-chackout-table tr.psc-order-total th,.psc-totals-checkout .psc-total-carts table.psc-chackout-table tr.psc-cart-coupon th, tr.psc-order-tax th, tr.psc-order-shipping th{
+    border-top: 1px solid #ddd; 
+}
+
+/***
+Credit Card Form HTML CODE
+*/
+
+
+
+.payment_gateways_credit_card_form {
+  max-width: 300px;
+  min-width: 200px;
+  margin: 15px auto;
+  padding: 15px;
+  background: #f3f6fa;
+  border: 1px solid;
+  border-color: #c2cadb #bbc5d6 #b7c0cd;
+  border-radius: 7px;
+  -webkit-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.15);
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.15);
+}
+
+.payment_gateways_credit_card_form > p:before, .payment_gateways_credit_card_form > p:after {
+  content: '';
+  display: table;
+}
+
+.payment_gateways_credit_card_form > p:after {
+  clear: both;
+}
+
+.payment_gateways_credit_card_form input {
+  margin: 0;
+  line-height: normal;
+  font-family: inherit;
+  font-size: 100%;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.payment_gateways_credit_card_form .checkout-input {
+  float: left;
+  padding: 0 7px;
+  height: 32px;
+  color: #525864;
+  background: white;
+  border: 1px solid;
+  border-color: #b3c0e2 #bcc5e2 #c0ccea;
+  border-radius: 4px;
+  background-image: -webkit-linear-gradient(top, #f6f8fa, white);
+  background-image: -moz-linear-gradient(top, #f6f8fa, white);
+  background-image: -o-linear-gradient(top, #f6f8fa, white);
+  background-image: linear-gradient(to bottom, #f6f8fa, white);
+  -webkit-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1), 0 1px rgba(255, 255, 255, 0.5);
+  box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1), 0 1px rgba(255, 255, 255, 0.5);
+}
+
+.payment_gateways_credit_card_form .checkout-name{
+  width: 100%;
+}
+.payment_gateways_credit_card_form .checkout-card {
+  width: 100%;
+}
+.payment_gateways_credit_card_form .checkout-exp,
+.payment_gateways_credit_card_form .checkout-cvc {
+  margin-left: 1%;
+  width: 32%;
+}
+.pal_shopping_cart_pay_for_order .order_details{
+    margin: 0 0 1.5em;
+    list-style: none;
+    padding-bottom: 1.5em;
+}
+.pal_shopping_cart_pay_for_order .order_details li{
+    float: left;
+    margin-right: 2em;
+    text-transform: uppercase;
+    font-size: .715em;
+    line-height: 1;
+    border-right: 1px dashed #d3ced2;
+    padding-right: 2em;
+    margin-left: 0;
+    padding-left: 0;
+    list-style-type: none;
+}
+.pal_shopping_cart_pay_for_order .order_details li:last-child{
+    border-right: none;
+}
+.pal_shopping_cart_pay_for_order .order_details li strong {
+    display: block;
+    font-size: 1.4em;
+    text-transform: none;
+    line-height: 1.5;
+}
+.paypal-shopping-carts .psc_product .thumbnail {
+    display: none;
+}
